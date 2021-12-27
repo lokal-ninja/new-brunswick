@@ -1,6 +1,6 @@
 ---
 title: Miramichi
 url: /miramichi/
-latitude: 47.032695000000004
-longitude: -65.494995
+latitude: 46.985
+longitude: -65.54
 ---

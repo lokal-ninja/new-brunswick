@@ -1,5 +1,5 @@
 ---
 title: "Coast Tire"
 url: /fredericton/coast-tire/
-shop: tyres
+shop: Reifen
 ---

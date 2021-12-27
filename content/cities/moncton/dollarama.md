@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /moncton/dollarama/
-shop: variety store
+shop: Kramladen
 ---

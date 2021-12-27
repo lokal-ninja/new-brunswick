@@ -1,5 +1,5 @@
 ---
 title: "Esso"
 url: /florenceville/esso/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Centreville
 url: /centreville/
-latitude: 46.3523268
-longitude: -66.741652
+latitude: 46.431
+longitude: -67.712
 ---

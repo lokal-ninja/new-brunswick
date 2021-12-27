@@ -1,5 +1,5 @@
 ---
 title: "Christmas Discounters"
 url: /fredericton/christmas-discounters/
-shop: furniture
+shop: Möbel
 ---

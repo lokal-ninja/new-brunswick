@@ -1,5 +1,5 @@
 ---
 title: "Miraco"
 url: /st-leonard/miraco/
-shop: convenience
+shop: Lebensmittel
 ---

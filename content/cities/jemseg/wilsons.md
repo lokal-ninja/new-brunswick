@@ -1,5 +1,5 @@
 ---
 title: "Wilsons"
 url: /jemseg/wilsons/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Dieppe
 url: /dieppe/
-latitude: 46.0945258
-longitude: -64.7354772
+latitude: 46.096
+longitude: -64.761
 ---

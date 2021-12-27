@@ -1,6 +1,6 @@
 ---
 title: Bright
 url: /bright/
-latitude: 
-longitude: 
+latitude: 45.954
+longitude: -66.887
 ---

@@ -1,6 +1,6 @@
 ---
 title: Beaubassin East
 url: /beaubassin-east/
-latitude: 
-longitude: 
+latitude: 46.224
+longitude: -64.423
 ---

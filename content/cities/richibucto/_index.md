@@ -1,6 +1,6 @@
 ---
 title: Richibucto
 url: /richibucto/
-latitude: 46.6742757
-longitude: -64.867452
+latitude: 46.674
+longitude: -64.868
 ---

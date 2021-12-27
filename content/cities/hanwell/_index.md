@@ -1,6 +1,6 @@
 ---
 title: Hanwell
 url: /hanwell/
-latitude: 45.8750846
-longitude: -66.7873929
+latitude: 45.922
+longitude: -66.712
 ---

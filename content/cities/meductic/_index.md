@@ -1,6 +1,6 @@
 ---
 title: Meductic
 url: /meductic/
-latitude: 45.9956435
-longitude: -67.4859476
+latitude: 45.975
+longitude: -67.471
 ---

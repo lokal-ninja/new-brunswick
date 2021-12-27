@@ -1,6 +1,6 @@
 ---
 title: Perth-Andover
 url: /perth-andover/
-latitude: 46.7384475
-longitude: -67.7057484
+latitude: 46.749
+longitude: -67.72
 ---

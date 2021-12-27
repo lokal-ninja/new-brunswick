@@ -1,5 +1,5 @@
 ---
 title: "Esso"
 url: /fredericton/esso/
-shop: convenience
+shop: Lebensmittel
 ---

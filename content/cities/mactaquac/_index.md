@@ -1,6 +1,6 @@
 ---
 title: Mactaquac
 url: /mactaquac/
-latitude: 45.941545500000004
-longitude: -66.8841326
+latitude: 45.972
+longitude: -66.896
 ---

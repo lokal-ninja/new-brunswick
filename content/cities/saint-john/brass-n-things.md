@@ -1,5 +1,5 @@
 ---
 title: "Brass n' Things"
 url: /saint-john/brass-n-things/
-shop: charity
+shop: Gebrauchtwaren
 ---

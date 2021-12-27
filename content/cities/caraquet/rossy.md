@@ -1,5 +1,5 @@
 ---
 title: "Rossy"
 url: /caraquet/rossy/
-shop: department store
+shop: Warenhaus
 ---

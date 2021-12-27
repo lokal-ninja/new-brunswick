@@ -1,6 +1,6 @@
 ---
 title: Bathurst
 url: /bathurst/
-latitude: 47.626529000000005
-longitude: -65.654297
+latitude: 47.613
+longitude: -65.635
 ---

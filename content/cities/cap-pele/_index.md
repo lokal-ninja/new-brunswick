@@ -1,6 +1,6 @@
 ---
 title: Cap-Pele
 url: /cap-pele/
-latitude: 
-longitude: 
+latitude: 46.215
+longitude: -64.27
 ---

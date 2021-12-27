@@ -1,6 +1,6 @@
 ---
 title: Moncton
 url: /moncton/
-latitude: 46.097995000000004
-longitude: -64.80011
+latitude: 46.109
+longitude: -64.832
 ---

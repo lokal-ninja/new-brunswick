@@ -1,6 +1,6 @@
 ---
 title: Saint John
 url: /saint-john/
-latitude: 47.208370300000006
-longitude: -68.8072676
+latitude: 45.273
+longitude: -66.062
 ---

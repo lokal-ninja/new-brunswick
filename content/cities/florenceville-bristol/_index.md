@@ -1,6 +1,6 @@
 ---
 title: Florenceville-Bristol
 url: /florenceville-bristol/
-latitude: 46.4531007
-longitude: -67.6068386
+latitude: 46.47
+longitude: -67.583
 ---

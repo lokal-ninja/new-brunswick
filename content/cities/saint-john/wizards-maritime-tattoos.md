@@ -1,5 +1,5 @@
 ---
 title: "Wizards Maritime Tattoos"
 url: /saint-john/wizards-maritime-tattoos/
-shop: tattoo
+shop: Tattoo
 ---

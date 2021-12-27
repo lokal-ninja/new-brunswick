@@ -1,5 +1,5 @@
 ---
 title: "Moncton Chrysler Dealership"
 url: /moncton/moncton-chrysler-dealership/
-shop: car
+shop: Autohaus
 ---

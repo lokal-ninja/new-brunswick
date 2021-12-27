@@ -1,6 +1,6 @@
 ---
 title: Irishtown
 url: /irishtown/
-latitude: 46.1878874
-longitude: -64.7920648
+latitude: 46.207
+longitude: -64.801
 ---

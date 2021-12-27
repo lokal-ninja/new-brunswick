@@ -1,5 +1,5 @@
 ---
 title: "Claire's"
 url: /dieppe/claires/
-shop: shop
+shop: Allgemein
 ---

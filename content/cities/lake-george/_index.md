@@ -1,6 +1,6 @@
 ---
 title: Lake George
 url: /lake-george/
-latitude: 
-longitude: 
+latitude: 45.874
+longitude: -66.986
 ---

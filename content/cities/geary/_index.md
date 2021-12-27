@@ -1,6 +1,6 @@
 ---
 title: Geary
 url: /geary/
-latitude: 45.7463466
-longitude: -66.485056
+latitude: 45.767
+longitude: -66.477
 ---

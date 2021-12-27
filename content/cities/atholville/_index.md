@@ -1,6 +1,6 @@
 ---
 title: Atholville
 url: /atholville/
-latitude: 47.98894850000001
-longitude: -66.7205611
+latitude: 47.993
+longitude: -66.701
 ---

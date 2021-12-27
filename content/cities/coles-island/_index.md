@@ -1,6 +1,6 @@
 ---
 title: Coles Island
 url: /coles-island/
-latitude: 45.891936
-longitude: -64.3213434
+latitude: 45.942
+longitude: -65.832
 ---

@@ -1,6 +1,6 @@
 ---
 title: Burtt's Corner
 url: /burtts-corner/
-latitude: 
-longitude: 
+latitude: 46.032
+longitude: -66.7
 ---
