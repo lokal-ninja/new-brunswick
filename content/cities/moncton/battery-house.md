@@ -1,5 +1,5 @@
 ---
 title: "Battery House"
 url: /moncton/battery-house/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Washboard Laundromat"
 url: /st-andrews/washboard-laundromat/
-shop: Wäscherei
+shop: laundry
 ---

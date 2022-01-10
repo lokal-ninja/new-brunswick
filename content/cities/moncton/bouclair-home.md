@@ -1,5 +1,5 @@
 ---
 title: "Bouclair Home"
 url: /moncton/bouclair-home/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Source"
 url: /moncton/the-source/
-shop: Elektronik
+shop: electronics
 ---

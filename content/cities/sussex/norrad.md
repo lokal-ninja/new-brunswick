@@ -1,5 +1,5 @@
 ---
 title: "Norrad"
 url: /sussex/norrad/
-shop: Autohaus
+shop: car
 ---

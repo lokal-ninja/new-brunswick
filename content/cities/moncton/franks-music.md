@@ -1,5 +1,5 @@
 ---
 title: "Frank's Music"
 url: /moncton/franks-music/
-shop: Instrumente
+shop: musical instrument
 ---

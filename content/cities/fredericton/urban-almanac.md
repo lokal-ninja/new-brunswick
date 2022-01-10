@@ -1,5 +1,5 @@
 ---
 title: "Urban Almanac"
 url: /fredericton/urban-almanac/
-shop: Raumausstattung
+shop: interior decoration
 ---

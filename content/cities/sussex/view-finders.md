@@ -1,5 +1,5 @@
 ---
 title: "View Finders"
 url: /sussex/view-finders/
-shop: Foto
+shop: photo
 ---

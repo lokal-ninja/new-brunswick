@@ -1,5 +1,5 @@
 ---
 title: "NB Liquor"
 url: /richibucto/nb-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

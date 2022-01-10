@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /fredericton/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

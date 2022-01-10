@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /riverview/dollarama/
-shop: Kramladen
+shop: variety store
 ---

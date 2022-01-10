@@ -1,5 +1,5 @@
 ---
 title: "Ardene"
 url: /moncton/ardene/
-shop: Kleidung
+shop: clothes
 ---

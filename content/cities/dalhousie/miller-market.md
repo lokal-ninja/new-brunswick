@@ -1,5 +1,5 @@
 ---
 title: "Miller Market"
 url: /dalhousie/miller-market/
-shop: Lebensmittel
+shop: convenience
 ---

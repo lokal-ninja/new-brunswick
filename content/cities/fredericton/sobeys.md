@@ -1,5 +1,5 @@
 ---
 title: "Sobeys"
 url: /fredericton/sobeys/
-shop: Supermarkt
+shop: supermarket
 ---

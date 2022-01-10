@@ -1,5 +1,5 @@
 ---
 title: "Olivier"
 url: /saint-john/olivier/
-shop: Raumausstattung
+shop: interior decoration
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Radical Edge"
 url: /fredericton/the-radical-edge/
-shop: Outdoor
+shop: outdoor
 ---

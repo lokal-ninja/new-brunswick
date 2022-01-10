@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /fredericton/costco/
-shop: Großhandel
+shop: wholesale
 ---

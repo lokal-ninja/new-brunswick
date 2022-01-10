@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /bathurst/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

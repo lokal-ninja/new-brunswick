@@ -1,5 +1,5 @@
 ---
 title: "Home Hardware"
 url: /saint-john/home-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

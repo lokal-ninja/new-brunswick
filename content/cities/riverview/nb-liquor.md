@@ -1,5 +1,5 @@
 ---
 title: "NB Liquor"
 url: /riverview/nb-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

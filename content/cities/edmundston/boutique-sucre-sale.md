@@ -1,5 +1,5 @@
 ---
 title: "Boutique Sucré Salé"
 url: /edmundston/boutique-sucre-sale/
-shop: Allgemein
+shop: shop
 ---

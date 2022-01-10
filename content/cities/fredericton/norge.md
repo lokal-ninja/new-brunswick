@@ -1,5 +1,5 @@
 ---
 title: "Norge"
 url: /fredericton/norge/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shopping"
 url: /riverview/shopping/
-shop: Einkaufszentrum
+shop: mall
 ---

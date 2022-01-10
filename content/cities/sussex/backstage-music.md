@@ -1,5 +1,5 @@
 ---
 title: "Backstage Music"
 url: /sussex/backstage-music/
-shop: Musik
+shop: music
 ---

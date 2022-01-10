@@ -1,5 +1,5 @@
 ---
 title: "Cell Rox Acedragon"
 url: /saint-john/cell-rox-acedragon/
-shop: Handy
+shop: mobile phone
 ---

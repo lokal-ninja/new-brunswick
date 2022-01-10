@@ -1,5 +1,5 @@
 ---
 title: "Your Independent Grocer"
 url: /plaster-rock/your-independent-grocer/
-shop: Supermarkt
+shop: supermarket
 ---

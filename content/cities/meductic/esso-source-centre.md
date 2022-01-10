@@ -1,5 +1,5 @@
 ---
 title: "Esso Source Centre"
 url: /meductic/esso-source-centre/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Needs convenience"
 url: /moncton/needs-convenience/
-shop: Kramladen
+shop: variety store
 ---

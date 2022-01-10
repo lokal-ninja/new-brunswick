@@ -1,5 +1,5 @@
 ---
 title: "HomeSense"
 url: /moncton/homesense/
-shop: Raumausstattung
+shop: interior decoration
 ---

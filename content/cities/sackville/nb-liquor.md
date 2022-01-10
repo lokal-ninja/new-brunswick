@@ -1,5 +1,5 @@
 ---
 title: "NB Liquor"
 url: /sackville/nb-liquor/
-shop: Spirituosen
+shop: alcohol
 ---
