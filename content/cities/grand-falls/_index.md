@@ -1,6 +1,6 @@
 ---
 title: Grand Falls
 url: /grand-falls/
-latitude: 47.046
-longitude: -67.751
+latitude: 47.059
+longitude: -67.756
 ---
