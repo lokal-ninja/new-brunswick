@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
-url: /moncton/circle-k-2/
+url: /moncton/circle-k/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Home Hardware"
-url: /moncton/home-hardware-2/
+url: /moncton/home-hardware/
 shop: hardware
 ---

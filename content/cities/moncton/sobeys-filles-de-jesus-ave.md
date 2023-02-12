@@ -1,5 +1,5 @@
 ---
 title: "Sobeys"
-url: /moncton/sobeys-2/
+url: /moncton/sobeys/
 shop: supermarket
 ---

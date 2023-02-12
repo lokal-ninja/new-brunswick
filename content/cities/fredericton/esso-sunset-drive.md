@@ -1,5 +1,5 @@
 ---
 title: "Esso"
-url: /fredericton/esso-2/
+url: /fredericton/esso/
 shop: convenience
 ---

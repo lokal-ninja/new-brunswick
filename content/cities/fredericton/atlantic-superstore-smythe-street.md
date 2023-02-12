@@ -1,5 +1,5 @@
 ---
 title: "Atlantic Superstore"
-url: /fredericton/atlantic-superstore-2/
+url: /fredericton/atlantic-superstore/
 shop: supermarket
 ---

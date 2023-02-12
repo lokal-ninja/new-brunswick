@@ -1,5 +1,5 @@
 ---
 title: "Need's Convenience"
-url: /moncton/needs-convenience-2/
+url: /moncton/needs-convenience/
 shop: convenience
 ---
