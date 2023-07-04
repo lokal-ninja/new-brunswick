@@ -1,6 +1,6 @@
 ---
 title: Aulac
 url: /aulac/
-latitude: 45.87
-longitude: -64.279
+latitude: 45.871
+longitude: -64.28
 ---
