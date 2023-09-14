@@ -1,5 +1,5 @@
 ---
 title: "Needs"
-url: /riverview/needs/
+url: /riverview/needs-trites-road/
 shop: convenience
 ---
