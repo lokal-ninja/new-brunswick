@@ -1,5 +1,5 @@
 ---
 title: "Needs"
 url: /moncton/needs/
-shop: convenience
+shop: Lebensmittel
 ---

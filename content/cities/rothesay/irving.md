@@ -1,5 +1,5 @@
 ---
 title: "Irving"
 url: /rothesay/irving/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /lubec/iga/
-shop: supermarket
+shop: Supermarkt
 ---

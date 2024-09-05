@@ -1,5 +1,5 @@
 ---
 title: "Hallmark"
 url: /moncton/hallmark/
-shop: gift
+shop: Andenken
 ---

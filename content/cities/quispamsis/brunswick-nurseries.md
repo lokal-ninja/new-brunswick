@@ -1,5 +1,5 @@
 ---
 title: "Brunswick Nurseries"
 url: /quispamsis/brunswick-nurseries/
-shop: garden centre
+shop: Garten-Center
 ---

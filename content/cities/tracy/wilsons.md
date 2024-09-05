@@ -1,5 +1,5 @@
 ---
 title: "Wilsons"
 url: /tracy/wilsons/
-shop: convenience
+shop: Lebensmittel
 ---

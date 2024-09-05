@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /fredericton/petsmart/
-shop: pet
+shop: Tiere
 ---

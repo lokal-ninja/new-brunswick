@@ -1,5 +1,5 @@
 ---
 title: "Explore Velo"
 url: /fredericton/explore-velo/
-shop: bicycle
+shop: Fahrrad
 ---

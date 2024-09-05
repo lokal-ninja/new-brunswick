@@ -1,5 +1,5 @@
 ---
 title: "Broadview Power Sports"
 url: /riverview/broadview-power-sports/
-shop: motorcycle
+shop: Motorrad
 ---

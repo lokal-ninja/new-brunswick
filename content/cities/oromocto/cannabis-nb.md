@@ -1,5 +1,5 @@
 ---
 title: "Cannabis NB"
 url: /oromocto/cannabis-nb/
-shop: cannabis
+shop: Hanf
 ---

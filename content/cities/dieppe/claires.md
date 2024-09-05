@@ -1,5 +1,5 @@
 ---
 title: "claire's"
 url: /dieppe/claires/
-shop: boutique
+shop: Modehaus
 ---

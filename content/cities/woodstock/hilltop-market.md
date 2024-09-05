@@ -1,5 +1,5 @@
 ---
 title: "Hilltop Market"
 url: /woodstock/hilltop-market/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

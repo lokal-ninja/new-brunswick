@@ -1,5 +1,5 @@
 ---
 title: "The Comic Hunter"
 url: /fredericton/the-comic-hunter/
-shop: games
+shop: Spiele
 ---

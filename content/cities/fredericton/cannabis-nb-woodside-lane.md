@@ -1,5 +1,5 @@
 ---
 title: "Cannabis NB"
 url: /fredericton/cannabis-nb-woodside-lane/
-shop: cannabis
+shop: Hanf
 ---

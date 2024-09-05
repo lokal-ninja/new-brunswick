@@ -1,5 +1,5 @@
 ---
 title: "Kent"
 url: /sussex/kent/
-shop: doityourself
+shop: Baumarkt
 ---

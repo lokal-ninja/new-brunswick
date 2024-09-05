@@ -1,5 +1,5 @@
 ---
 title: "TechXperts"
 url: /sussex/techxperts/
-shop: computer
+shop: Computer
 ---
