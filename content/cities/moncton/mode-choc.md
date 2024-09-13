@@ -1,5 +1,5 @@
 ---
 title: "Mode Choc"
 url: /moncton/mode-choc/
-shop: Kleidung
+shop: clothes
 ---

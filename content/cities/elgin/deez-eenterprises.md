@@ -1,5 +1,5 @@
 ---
 title: "Deez Eenterprises"
 url: /elgin/deez-eenterprises/
-shop: Autowerkstatt
+shop: car repair
 ---

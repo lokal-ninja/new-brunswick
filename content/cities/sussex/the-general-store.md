@@ -1,5 +1,5 @@
 ---
 title: "The General Store"
 url: /sussex/the-general-store/
-shop: Andenken
+shop: gift
 ---

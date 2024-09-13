@@ -1,5 +1,5 @@
 ---
 title: "Ultramar"
 url: /burton/ultramar/
-shop: Lebensmittel
+shop: convenience
 ---

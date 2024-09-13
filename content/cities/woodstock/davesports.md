@@ -1,5 +1,5 @@
 ---
 title: "Davesports"
 url: /woodstock/davesports/
-shop: Motorrad
+shop: motorcycle
 ---

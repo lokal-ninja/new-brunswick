@@ -1,5 +1,5 @@
 ---
 title: "Kia"
 url: /moncton/kia/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Steele GMC Buick"
 url: /fredericton/steele-gmc-buick/
-shop: Autohaus
+shop: car
 ---

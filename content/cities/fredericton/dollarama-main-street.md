@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /fredericton/dollarama-main-street/
-shop: Kramladen
+shop: variety store
 ---

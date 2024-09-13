@@ -1,5 +1,5 @@
 ---
 title: "Ultramar"
 url: /moncton/ultramar/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Co-op"
 url: /miramichi/co-op/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SellOffVacations.com"
 url: /moncton/selloffvacations-com/
-shop: Reisebüro
+shop: travel agency
 ---

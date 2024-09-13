@@ -1,5 +1,5 @@
 ---
 title: "Moores"
 url: /dieppe/moores/
-shop: Kleidung
+shop: clothes
 ---

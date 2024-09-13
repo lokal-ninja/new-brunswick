@@ -1,5 +1,5 @@
 ---
 title: "Kent Building Supplies"
 url: /moncton/kent-building-supplies/
-shop: Eisenwaren
+shop: hardware
 ---

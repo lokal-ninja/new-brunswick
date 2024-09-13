@@ -1,5 +1,5 @@
 ---
 title: "Moncton Acura"
 url: /dieppe/moncton-acura/
-shop: Autohaus
+shop: car
 ---

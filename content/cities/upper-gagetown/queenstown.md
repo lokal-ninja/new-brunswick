@@ -1,5 +1,5 @@
 ---
 title: "Queenstown"
 url: /upper-gagetown/queenstown/
-shop: Küchen
+shop: kitchen
 ---

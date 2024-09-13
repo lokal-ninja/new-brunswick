@@ -1,5 +1,5 @@
 ---
 title: "Printing Plus"
 url: /saint-john/printing-plus/
-shop: Kopieren
+shop: copyshop
 ---

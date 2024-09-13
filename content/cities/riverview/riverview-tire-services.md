@@ -1,5 +1,5 @@
 ---
 title: "Riverview Tire Services"
 url: /riverview/riverview-tire-services/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Robyn's Beadwork"
 url: /saint-john/robyns-beadwork/
-shop: Kunst
+shop: art
 ---

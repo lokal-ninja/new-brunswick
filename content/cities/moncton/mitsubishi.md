@@ -1,5 +1,5 @@
 ---
 title: "Mitsubishi"
 url: /moncton/mitsubishi/
-shop: Autohaus
+shop: car
 ---

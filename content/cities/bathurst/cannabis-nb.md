@@ -1,5 +1,5 @@
 ---
 title: "Cannabis NB"
 url: /bathurst/cannabis-nb/
-shop: Hanf
+shop: cannabis
 ---

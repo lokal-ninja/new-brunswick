@@ -1,5 +1,5 @@
 ---
 title: "Reflections Hair Styling"
 url: /elgin/reflections-hair-styling/
-shop: Friseur
+shop: hairdresser
 ---

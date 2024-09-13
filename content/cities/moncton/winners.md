@@ -1,5 +1,5 @@
 ---
 title: "Winners"
 url: /moncton/winners/
-shop: Warenhaus
+shop: department store
 ---

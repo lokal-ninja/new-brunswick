@@ -1,5 +1,5 @@
 ---
 title: "Krown Dieppe"
 url: /dieppe/krown-dieppe/
-shop: Autowerkstatt
+shop: car repair
 ---

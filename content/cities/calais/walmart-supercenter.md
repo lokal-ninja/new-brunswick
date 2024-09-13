@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /calais/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

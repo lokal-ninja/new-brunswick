@@ -1,5 +1,5 @@
 ---
 title: "Speedy Glass"
 url: /woodstock/speedy-glass/
-shop: Autowerkstatt
+shop: car repair
 ---

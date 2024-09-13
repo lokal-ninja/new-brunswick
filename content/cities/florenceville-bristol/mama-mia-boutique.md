@@ -1,5 +1,5 @@
 ---
 title: "Mama Mia Boutique"
 url: /florenceville-bristol/mama-mia-boutique/
-shop: Kleidung
+shop: clothes
 ---

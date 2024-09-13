@@ -1,5 +1,5 @@
 ---
 title: "Big Fish"
 url: /moncton/big-fish/
-shop: Angeln
+shop: fishing
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tomavo"
 url: /moncton/tomavo/
-shop: Hofladen
+shop: farm
 ---

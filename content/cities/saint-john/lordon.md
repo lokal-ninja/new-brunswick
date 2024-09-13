@@ -1,5 +1,5 @@
 ---
 title: "Lordon"
 url: /saint-john/lordon/
-shop: Kleidung
+shop: clothes
 ---

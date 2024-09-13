@@ -1,5 +1,5 @@
 ---
 title: "Foodland"
 url: /petitcodiac/foodland/
-shop: Supermarkt
+shop: supermarket
 ---

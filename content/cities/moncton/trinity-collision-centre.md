@@ -1,5 +1,5 @@
 ---
 title: "Trinity Collision Centre"
 url: /moncton/trinity-collision-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

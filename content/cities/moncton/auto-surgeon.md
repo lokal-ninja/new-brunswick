@@ -1,5 +1,5 @@
 ---
 title: "Auto Surgeon"
 url: /moncton/auto-surgeon/
-shop: Autowerkstatt
+shop: car repair
 ---

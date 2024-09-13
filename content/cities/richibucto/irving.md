@@ -1,5 +1,5 @@
 ---
 title: "Irving"
 url: /richibucto/irving/
-shop: Lebensmittel
+shop: convenience
 ---

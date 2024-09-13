@@ -1,5 +1,5 @@
 ---
 title: "Home Hardware"
 url: /st-andrews/home-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bay City Garage"
 url: /eastport/bay-city-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

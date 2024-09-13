@@ -1,5 +1,5 @@
 ---
 title: "Giant Tiger"
 url: /riverview/giant-tiger/
-shop: Warenhaus
+shop: department store
 ---

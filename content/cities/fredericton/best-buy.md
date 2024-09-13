@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /fredericton/best-buy/
-shop: Elektronik
+shop: electronics
 ---

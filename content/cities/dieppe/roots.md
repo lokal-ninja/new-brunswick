@@ -1,5 +1,5 @@
 ---
 title: "Roots"
 url: /dieppe/roots/
-shop: Kleidung
+shop: clothes
 ---

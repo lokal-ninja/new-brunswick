@@ -1,5 +1,5 @@
 ---
 title: "Corey Hyaundi"
 url: /hartford/corey-hyaundi/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goodyear"
 url: /grand-falls-grand-sault/goodyear/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CarQuest"
 url: /dalhousie/carquest/
-shop: Autoteile
+shop: car parts
 ---

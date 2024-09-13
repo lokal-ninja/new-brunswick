@@ -1,5 +1,5 @@
 ---
 title: "Bell"
 url: /fredericton/bell/
-shop: Handy
+shop: mobile phone
 ---

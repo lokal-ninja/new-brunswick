@@ -1,5 +1,5 @@
 ---
 title: "Ultramar Convenience Store"
 url: /fredericton/ultramar-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

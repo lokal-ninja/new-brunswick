@@ -1,5 +1,5 @@
 ---
 title: "Ultramar"
 url: /bathurst/ultramar/
-shop: Lebensmittel
+shop: convenience
 ---

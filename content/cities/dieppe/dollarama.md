@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /dieppe/dollarama/
-shop: Kramladen
+shop: variety store
 ---

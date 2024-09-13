@@ -1,5 +1,5 @@
 ---
 title: "Princess Auto"
 url: /fredericton/princess-auto/
-shop: Baumarkt
+shop: doityourself
 ---

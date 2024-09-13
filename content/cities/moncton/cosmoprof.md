@@ -1,5 +1,5 @@
 ---
 title: "CosmoProf"
 url: /moncton/cosmoprof/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

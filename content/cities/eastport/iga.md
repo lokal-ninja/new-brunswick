@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /eastport/iga/
-shop: Supermarkt
+shop: supermarket
 ---

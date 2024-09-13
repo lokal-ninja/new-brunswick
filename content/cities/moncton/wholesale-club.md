@@ -1,5 +1,5 @@
 ---
 title: "Wholesale Club"
 url: /moncton/wholesale-club/
-shop: Supermarkt
+shop: supermarket
 ---

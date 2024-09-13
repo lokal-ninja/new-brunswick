@@ -1,5 +1,5 @@
 ---
 title: "Admiral Glass"
 url: /woodstock/admiral-glass/
-shop: Autowerkstatt
+shop: car repair
 ---

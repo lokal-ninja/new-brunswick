@@ -1,5 +1,5 @@
 ---
 title: "Rallye Motors Chrysler"
 url: /moncton/rallye-motors-chrysler/
-shop: Autohaus
+shop: car
 ---

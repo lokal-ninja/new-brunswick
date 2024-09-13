@@ -1,5 +1,5 @@
 ---
 title: "The Goody Shop"
 url: /fredericton/the-goody-shop/
-shop: Bäckerei
+shop: bakery
 ---

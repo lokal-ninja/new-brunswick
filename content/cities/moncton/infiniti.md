@@ -1,5 +1,5 @@
 ---
 title: "Infiniti"
 url: /moncton/infiniti/
-shop: Autohaus
+shop: car
 ---
