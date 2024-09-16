@@ -1,11 +1,11 @@
 id: 441527786
-type: way
+type: node
 latitude: 45.13246
 longitude: -66.79288
 postcode: ""
 city: Saint George
-street: "Main Street"
-housenumber: 245
+street: Main Street
+housenumber: "245"
 phone: ""
 opening_hours: ""
 website: ""

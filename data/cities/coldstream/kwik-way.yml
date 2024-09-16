@@ -1,11 +1,11 @@
 id: 972941122
-type: way
+type: node
 latitude: 46.34201
 longitude: -67.46497
-postcode: "E7P 3M3"
+postcode: E7P 3M3
 city: Coldstream
-street: "NB-104"
-housenumber: 7682
-phone: "+1-506-375-8290"
+street: NB-104
+housenumber: "7682"
+phone: +1-506-375-8290
 opening_hours: ""
 website: ""

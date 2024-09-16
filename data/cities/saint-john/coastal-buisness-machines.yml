@@ -1,11 +1,11 @@
 id: 189128536
-type: way
+type: node
 latitude: 45.277
 longitude: -66.05634
 postcode: ""
 city: Saint John
-street: "Waterloo Street"
-housenumber: 76
+street: Waterloo Street
+housenumber: "76"
 phone: ""
 opening_hours: ""
 website: ""

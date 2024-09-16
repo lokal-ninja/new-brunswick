@@ -1,11 +1,11 @@
 id: 672357873
-type: way
+type: node
 latitude: 46.11467
 longitude: -64.83818
-postcode: "E1G 1A2"
+postcode: E1G 1A2
 city: Moncton
-street: "Mountain Road"
-housenumber: 1528
-phone: "+1 506-853-8383"
+street: Mountain Road
+housenumber: "1528"
+phone: +1 506-853-8383
 opening_hours: ""
-website: "https://thepaintshop.ca/"
+website: https://thepaintshop.ca/

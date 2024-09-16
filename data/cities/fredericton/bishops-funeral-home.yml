@@ -1,11 +1,11 @@
 id: 197867767
-type: way
+type: node
 latitude: 45.96166
 longitude: -66.67298
 postcode: ""
 city: Fredericton
-street: "Woodstock Road"
-housenumber: 540
+street: Woodstock Road
+housenumber: "540"
 phone: ""
 opening_hours: ""
 website: ""

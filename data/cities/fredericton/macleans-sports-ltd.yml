@@ -1,11 +1,11 @@
 id: 130070513
-type: way
+type: node
 latitude: 45.97119
 longitude: -66.63352
 postcode: ""
 city: Fredericton
-street: "Union Street"
-housenumber: 489
+street: Union Street
+housenumber: "489"
 phone: ""
 opening_hours: ""
-website: "https://macleanssports.com/"
+website: https://macleanssports.com/

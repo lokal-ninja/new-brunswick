@@ -1,11 +1,11 @@
 id: 121475447
-type: way
+type: node
 latitude: 46.11609
 longitude: -64.82122
 postcode: ""
 city: Moncton
-street: "Carson Drive"
-housenumber: 199
+street: Carson Drive
+housenumber: "199"
 phone: ""
 opening_hours: ""
 website: ""

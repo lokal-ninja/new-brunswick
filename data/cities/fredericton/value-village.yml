@@ -1,11 +1,11 @@
 id: 130818452
-type: way
+type: node
 latitude: 45.94397
 longitude: -66.67792
 postcode: ""
 city: Fredericton
-street: "Bishop Drive"
-housenumber: 371
+street: Bishop Drive
+housenumber: "371"
 phone: ""
-opening_hours: "Mo-Sa 11:00-20:00; Su 11:00-19:00"
+opening_hours: Mo-Sa 11:00-20:00; Su 11:00-19:00
 website: ""

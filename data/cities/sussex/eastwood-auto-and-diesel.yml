@@ -1,11 +1,11 @@
 id: 725889161
-type: way
+type: node
 latitude: 45.72811
 longitude: -65.49584
 postcode: ""
 city: Sussex
-street: "Rosemont Avenue"
-housenumber: 14
+street: Rosemont Avenue
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

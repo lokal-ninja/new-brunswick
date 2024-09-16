@@ -1,11 +1,11 @@
 id: 867068167
-type: way
+type: node
 latitude: 44.9107
 longitude: -66.99913
 postcode: "04631"
 city: Eastport
-street: "County Road"
-housenumber: 87
+street: County Road
+housenumber: "87"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 102677174
-type: way
+type: node
 latitude: 45.90387
 longitude: -66.57698
 postcode: ""
 city: Fredericton
-street: "Lincoln Road"
-housenumber: 1971
+street: Lincoln Road
+housenumber: "1971"
 phone: ""
 opening_hours: ""
 website: ""

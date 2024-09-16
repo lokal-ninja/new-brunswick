@@ -1,11 +1,11 @@
 id: 1105642941
-type: way
+type: node
 latitude: 46.12766
 longitude: -64.82773
 postcode: ""
 city: Moncton
-street: "Moncton Street"
-housenumber: 50
+street: Moncton Street
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

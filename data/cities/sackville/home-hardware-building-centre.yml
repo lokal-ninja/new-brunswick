@@ -1,11 +1,11 @@
 id: 388363420
-type: way
+type: node
 latitude: 45.90734
 longitude: -64.37027
 postcode: ""
 city: Sackville
-street: "Mallard Drive"
-housenumber: 19
-phone: "+1-506-536-4663"
+street: Mallard Drive
+housenumber: "19"
+phone: +1-506-536-4663
 opening_hours: ""
-website: "https://www.homehardware.ca/en/store/30089"
+website: https://www.homehardware.ca/en/store/30089

@@ -1,11 +1,11 @@
 id: 530909525
-type: way
+type: node
 latitude: 48.0647
 longitude: -66.38497
-postcode: "E8C 2V4"
+postcode: E8C 2V4
 city: Dalhousie
-street: "Victoria Street"
-housenumber: 487
+street: Victoria Street
+housenumber: "487"
 phone: ""
-opening_hours: "closed"
+opening_hours: closed
 website: ""

@@ -1,11 +1,11 @@
 id: 151799659
-type: way
+type: node
 latitude: 46.90533
 longitude: -67.39576
 postcode: ""
 city: Plaster Rock
-street: "Main Street"
-housenumber: 220
+street: Main Street
+housenumber: "220"
 phone: ""
 opening_hours: ""
 website: ""

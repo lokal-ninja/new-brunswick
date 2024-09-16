@@ -1,11 +1,11 @@
 id: 243285595
-type: way
+type: node
 latitude: 46.11186
 longitude: -64.83219
-postcode: "E1C 2T9"
+postcode: E1C 2T9
 city: Moncton
-street: "Mountain Road"
-housenumber: 1365
+street: Mountain Road
+housenumber: "1365"
 phone: ""
 opening_hours: ""
 website: ""

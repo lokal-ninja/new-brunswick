@@ -1,11 +1,11 @@
 id: 324459860
-type: way
+type: node
 latitude: 47.39548
 longitude: -68.34202
 postcode: ""
 city: Edmundston
-street: "Rue Victoria"
-housenumber: 805
-phone: "+1-506-735-3939"
+street: Rue Victoria
+housenumber: "805"
+phone: +1-506-735-3939
 opening_hours: ""
-website: "https://www.walmart.ca/en/stores-near-me/edmundston-nb-1033"
+website: https://www.walmart.ca/en/stores-near-me/edmundston-nb-1033

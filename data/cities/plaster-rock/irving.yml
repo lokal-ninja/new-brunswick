@@ -1,11 +1,11 @@
 id: 548873200
-type: way
+type: node
 latitude: 46.8966
 longitude: -67.39481
-postcode: "E7G 2E4"
+postcode: E7G 2E4
 city: Plaster Rock
-street: "Main Street"
-housenumber: 162
-phone: "+1-506-356-2339"
+street: Main Street
+housenumber: "162"
+phone: +1-506-356-2339
 opening_hours: ""
 website: ""

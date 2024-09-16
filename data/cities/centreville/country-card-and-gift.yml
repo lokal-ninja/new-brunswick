@@ -1,11 +1,11 @@
 id: 643232615
-type: way
+type: node
 latitude: 46.43129
 longitude: -67.71218
 postcode: ""
 city: Centreville
-street: "Main Street"
-housenumber: 3153
+street: Main Street
+housenumber: "3153"
 phone: ""
 opening_hours: ""
 website: ""

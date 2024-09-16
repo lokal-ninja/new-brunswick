@@ -1,11 +1,11 @@
 id: 700742981
-type: way
+type: node
 latitude: 47.62043
 longitude: -65.65605
 postcode: ""
 city: Bathurst
-street: "Main Street"
-housenumber: 122
+street: Main Street
+housenumber: "122"
 phone: ""
 opening_hours: ""
 website: ""

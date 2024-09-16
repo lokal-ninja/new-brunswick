@@ -1,11 +1,11 @@
 id: 553857703
-type: way
+type: node
 latitude: 45.07413
 longitude: -67.05254
 postcode: ""
 city: St. Andrews
-street: "King Street"
-housenumber: 45
+street: King Street
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 123534685
-type: way
+type: node
 latitude: 46.05193
 longitude: -64.79154
-postcode: "E1B 5V8"
+postcode: E1B 5V8
 city: Riverview
-street: "Cleveland Avenue"
-housenumber: 1106
+street: Cleveland Avenue
+housenumber: "1106"
 phone: ""
 opening_hours: ""
-website: "https://homehardware.ca"
+website: https://homehardware.ca

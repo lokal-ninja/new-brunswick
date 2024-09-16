@@ -1,11 +1,11 @@
 id: 549172243
-type: way
+type: node
 latitude: 46.74917
 longitude: -67.7197
-postcode: "E7H 4H8"
+postcode: E7H 4H8
 city: Perth-Andover
-street: "NB-190"
-housenumber: 540
-phone: "+1-506-273-9682"
+street: NB-190
+housenumber: "540"
+phone: +1-506-273-9682
 opening_hours: ""
 website: ""

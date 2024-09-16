@@ -1,11 +1,11 @@
 id: 486407744
-type: way
+type: node
 latitude: 45.92927
 longitude: -66.66355
 postcode: ""
 city: Fredericton
-street: "Trinity Avenue"
-housenumber: 21
+street: Trinity Avenue
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

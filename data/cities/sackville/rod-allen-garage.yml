@@ -1,11 +1,11 @@
 id: 398818423
-type: way
+type: node
 latitude: 45.8973
 longitude: -64.36681
-postcode: "E4L 3N6"
+postcode: E4L 3N6
 city: Sackville
-street: "Bridge Street"
-housenumber: 31
-phone: "+1-506-536-1555"
+street: Bridge Street
+housenumber: "31"
+phone: +1-506-536-1555
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 556627842
-type: way
+type: node
 latitude: 46.09631
 longitude: -64.75571
-postcode: "E1A 1S8"
+postcode: E1A 1S8
 city: Dieppe
-street: "Sainte-Therese Street"
-housenumber: 95
-phone: "+1 506 859 8818"
-opening_hours: "Mo-Fr 08:00-17:00"
+street: Sainte-Therese Street
+housenumber: "95"
+phone: +1 506 859 8818
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

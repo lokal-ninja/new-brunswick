@@ -1,11 +1,11 @@
 id: 121292652
-type: way
+type: node
 latitude: 46.09852
 longitude: -64.75865
 postcode: ""
 city: Dieppe
-street: "Regis Street"
-housenumber: 501
+street: Regis Street
+housenumber: "501"
 phone: ""
-opening_hours: "Mo-Sa 07:00-23:00; Su 08:00-22:00"
+opening_hours: Mo-Sa 07:00-23:00; Su 08:00-22:00
 website: ""

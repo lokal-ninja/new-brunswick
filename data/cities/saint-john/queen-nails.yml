@@ -1,11 +1,11 @@
 id: 159765195
-type: way
+type: node
 latitude: 45.27187
 longitude: -66.05892
 postcode: ""
 city: Saint John
-street: "Princess Street"
-housenumber: 107
+street: Princess Street
+housenumber: "107"
 phone: ""
 opening_hours: ""
 website: ""

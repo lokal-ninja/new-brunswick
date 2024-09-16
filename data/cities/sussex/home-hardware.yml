@@ -1,11 +1,11 @@
 id: 724646546
-type: way
+type: node
 latitude: 45.72323
 longitude: -65.50989
 postcode: ""
 city: Sussex
-street: "Main Street"
-housenumber: 551
+street: Main Street
+housenumber: "551"
 phone: ""
 opening_hours: ""
 website: ""

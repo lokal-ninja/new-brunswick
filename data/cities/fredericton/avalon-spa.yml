@@ -1,11 +1,11 @@
 id: 367910012
-type: way
+type: node
 latitude: 45.96167
 longitude: -66.64684
 postcode: ""
 city: Fredericton
-street: "Brunswick Street"
-housenumber: 318
+street: Brunswick Street
+housenumber: "318"
 phone: ""
 opening_hours: ""
 website: ""

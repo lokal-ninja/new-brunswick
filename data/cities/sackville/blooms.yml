@@ -1,11 +1,11 @@
 id: 478910630
-type: way
+type: node
 latitude: 45.89775
 longitude: -64.36949
 postcode: ""
 city: Sackville
-street: "York Street"
-housenumber: 24
-phone: "+1 506-536-1272"
-opening_hours: "Mo-Th 09:00-18:00, Sa 09:00-17:00, Su 12:00-16:00"
-website: "http://bloomsshop.ca/"
+street: York Street
+housenumber: "24"
+phone: +1 506-536-1272
+opening_hours: Mo-Th 09:00-18:00, Sa 09:00-17:00, Su 12:00-16:00
+website: http://bloomsshop.ca/

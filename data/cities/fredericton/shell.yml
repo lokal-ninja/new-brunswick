@@ -1,11 +1,11 @@
 id: 548915716
-type: way
+type: node
 latitude: 45.93807
 longitude: -66.6112
 postcode: ""
 city: Fredericton
-street: "Riverside Drive"
-housenumber: 562
+street: Riverside Drive
+housenumber: "562"
 phone: ""
 opening_hours: ""
 website: ""

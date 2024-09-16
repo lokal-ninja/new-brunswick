@@ -1,11 +1,11 @@
 id: 615094751
-type: way
+type: node
 latitude: 46.12541
 longitude: -64.67881
-postcode: "E1A 9A3"
+postcode: E1A 9A3
 city: Dieppe
-street: "Aviation Avenue"
-housenumber: 1170
-phone: "+1 5068531116"
+street: Aviation Avenue
+housenumber: "1170"
+phone: +1 5068531116
 opening_hours: ""
-website: "https://www.acuraofmoncton.ca/"
+website: https://www.acuraofmoncton.ca/

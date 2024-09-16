@@ -1,11 +1,11 @@
 id: 96774828
-type: way
+type: node
 latitude: 46.11536
 longitude: -64.82656
-postcode: "E1C 0E8"
+postcode: E1C 0E8
 city: Moncton
-street: "Plaza Boulevard"
-housenumber: 15
-phone: "+1 506 382 3003"
+street: Plaza Boulevard
+housenumber: "15"
+phone: +1 506 382 3003
 opening_hours: ""
-website: "https://stores.savers.com/nb/moncton/valuevillage-thrift-store-2084.html?site=ValueVillage&lang=EN&country=CA"
+website: https://stores.savers.com/nb/moncton/valuevillage-thrift-store-2084.html?site=ValueVillage&lang=EN&country=CA

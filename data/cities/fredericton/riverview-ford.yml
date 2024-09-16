@@ -1,11 +1,11 @@
 id: 100541184
-type: way
+type: node
 latitude: 45.9512
 longitude: -66.68682
 postcode: ""
 city: Fredericton
-street: "Hanwell Road"
-housenumber: 970
+street: Hanwell Road
+housenumber: "970"
 phone: ""
 opening_hours: ""
 website: ""

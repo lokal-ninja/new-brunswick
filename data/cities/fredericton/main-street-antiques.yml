@@ -1,11 +1,11 @@
 id: 197977076
-type: way
+type: node
 latitude: 45.98275
 longitude: -66.66289
 postcode: ""
 city: Fredericton
-street: "Main Street"
-housenumber: 40
+street: Main Street
+housenumber: "40"
 phone: ""
 opening_hours: ""
 website: ""

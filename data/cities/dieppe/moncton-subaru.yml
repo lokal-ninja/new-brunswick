@@ -1,11 +1,11 @@
 id: 615094756
-type: way
+type: node
 latitude: 46.12433
 longitude: -64.68415
-postcode: "E1A 9A3"
+postcode: E1A 9A3
 city: Dieppe
-street: "Aviation Avenue"
-housenumber: 1050
-phone: "+1 506 804 4364"
+street: Aviation Avenue
+housenumber: "1050"
+phone: +1 506 804 4364
 opening_hours: ""
-website: "https://www.subaruofmoncton.com/"
+website: https://www.subaruofmoncton.com/

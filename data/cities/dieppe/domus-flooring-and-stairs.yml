@@ -1,11 +1,11 @@
 id: 386370740
-type: way
+type: node
 latitude: 46.11402
 longitude: -64.69771
 postcode: ""
 city: Dieppe
-street: "Ferdinand Boulevard"
-housenumber: 631
-phone: "+1 5068570707"
+street: Ferdinand Boulevard
+housenumber: "631"
+phone: +1 5068570707
 opening_hours: ""
-website: "https://www.domusflooring.com/"
+website: https://www.domusflooring.com/

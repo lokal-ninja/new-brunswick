@@ -1,11 +1,11 @@
 id: 569621824
-type: way
+type: node
 latitude: 45.93236
 longitude: -65.17489
 postcode: ""
 city: Petitcodiac
-street: "Main Street"
-housenumber: 27
+street: Main Street
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

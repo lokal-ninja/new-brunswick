@@ -1,11 +1,11 @@
 id: 1108277359
-type: way
+type: node
 latitude: 46.17185
 longitude: -67.59863
 postcode: ""
 city: Woodstock
-street: "Everett Street"
-housenumber: 127
+street: Everett Street
+housenumber: "127"
 phone: ""
 opening_hours: ""
 website: ""

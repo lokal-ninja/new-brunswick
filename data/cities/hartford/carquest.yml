@@ -1,11 +1,11 @@
 id: 1108277374
-type: way
+type: node
 latitude: 46.16799
 longitude: -67.60882
 postcode: ""
 city: Hartford
-street: "Scott Street"
-housenumber: 68
+street: Scott Street
+housenumber: "68"
 phone: ""
 opening_hours: ""
 website: ""

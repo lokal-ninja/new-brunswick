@@ -1,11 +1,11 @@
 id: 330690620
-type: way
+type: node
 latitude: 45.90883
 longitude: -64.37558
-postcode: "E4L 4P8"
+postcode: E4L 4P8
 city: Sackville
-street: "Wright Street"
-housenumber: 11
+street: Wright Street
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

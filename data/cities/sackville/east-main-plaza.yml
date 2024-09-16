@@ -1,11 +1,11 @@
 id: 398824159
-type: way
+type: node
 latitude: 45.9027
 longitude: -64.37433
 postcode: ""
 city: Sackville
-street: "Main Street"
-housenumber: 170
+street: Main Street
+housenumber: "170"
 phone: ""
 opening_hours: ""
 website: ""

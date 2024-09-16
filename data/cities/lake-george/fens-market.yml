@@ -1,11 +1,11 @@
 id: 548911725
-type: way
+type: node
 latitude: 45.874
 longitude: -66.98631
-postcode: "E6K 3P9"
+postcode: E6K 3P9
 city: Lake George
-street: "NB-635"
-housenumber: 10
-phone: "+1-506-363-2975"
+street: NB-635
+housenumber: "10"
+phone: +1-506-363-2975
 opening_hours: ""
 website: ""

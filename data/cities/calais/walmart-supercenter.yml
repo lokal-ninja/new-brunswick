@@ -1,11 +1,11 @@
 id: 498343957
-type: way
+type: node
 latitude: 45.17423
 longitude: -67.27895
 postcode: "04619"
 city: Calais
-street: "South Street"
-housenumber: 379
-phone: "+1 207-454-8178"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.walmart.com/store/2178/calais-me/whats-new"
+street: South Street
+housenumber: "379"
+phone: +1 207-454-8178
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.walmart.com/store/2178/calais-me/whats-new

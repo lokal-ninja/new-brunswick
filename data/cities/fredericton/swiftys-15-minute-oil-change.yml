@@ -1,11 +1,11 @@
 id: 197980268
-type: way
+type: node
 latitude: 45.9742
 longitude: -66.64184
 postcode: ""
 city: Fredericton
-street: "Union Street"
-housenumber: 299
+street: Union Street
+housenumber: "299"
 phone: ""
 opening_hours: ""
 website: ""

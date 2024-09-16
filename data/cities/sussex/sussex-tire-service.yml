@@ -1,11 +1,11 @@
 id: 525419332
-type: way
+type: node
 latitude: 45.72966
 longitude: -65.48327
 postcode: ""
 city: Sussex
-street: "Leonard Drive"
-housenumber: 116
+street: Leonard Drive
+housenumber: "116"
 phone: ""
 opening_hours: ""
 website: ""

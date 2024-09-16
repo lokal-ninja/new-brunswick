@@ -1,11 +1,11 @@
 id: 693959585
-type: way
+type: node
 latitude: 45.2121
 longitude: -67.27487
 postcode: ""
 city: Old Ridge
-street: "Route 3"
-housenumber: 9316
+street: Route 3
+housenumber: "9316"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00, Su 12:00-17:00"
+opening_hours: Mo-Sa 10:00-21:00, Su 12:00-17:00
 website: ""

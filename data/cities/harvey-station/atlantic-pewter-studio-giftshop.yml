@@ -1,11 +1,11 @@
 id: 437072593
-type: way
+type: node
 latitude: 45.72993
 longitude: -67.00658
 postcode: ""
 city: Harvey Station
-street: "Route 3"
-housenumber: 1945
+street: Route 3
+housenumber: "1945"
 phone: ""
 opening_hours: ""
 website: ""

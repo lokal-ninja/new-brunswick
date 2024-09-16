@@ -1,11 +1,11 @@
 id: 391069712
-type: way
+type: node
 latitude: 46.17036
 longitude: -67.60906
 postcode: ""
 city: Hartford
-street: "Patterson Street"
-housenumber: 4
+street: Patterson Street
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 638288582
-type: way
+type: node
 latitude: 45.9474
 longitude: -66.69566
-postcode: "E3C 2R9"
+postcode: E3C 2R9
 city: Fredericton
-street: "Woodside Lane"
-housenumber: 45
+street: Woodside Lane
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00, Su 12:00-17:00"
+opening_hours: Mo-Sa 10:00-21:00, Su 12:00-17:00
 website: ""

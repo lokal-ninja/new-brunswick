@@ -1,11 +1,11 @@
 id: 238403718
-type: way
+type: node
 latitude: 48.06557
 longitude: -66.37255
 postcode: ""
 city: Dalhousie
-street: "Brunswick Street"
-housenumber: 120
+street: Brunswick Street
+housenumber: "120"
 phone: ""
 opening_hours: ""
 website: ""

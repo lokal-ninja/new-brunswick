@@ -1,11 +1,11 @@
 id: 191726733
-type: way
+type: node
 latitude: 45.95112
 longitude: -66.64392
 postcode: ""
 city: Fredericton
-street: "Albert Street"
-housenumber: 701
+street: Albert Street
+housenumber: "701"
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00, Sa,Su,PH 10:00-21:00"
+opening_hours: Mo-Fr 08:00-21:00, Sa,Su,PH 10:00-21:00
 website: ""

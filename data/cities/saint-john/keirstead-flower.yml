@@ -1,11 +1,11 @@
 id: 166551491
-type: way
+type: node
 latitude: 45.27181
 longitude: -66.05862
 postcode: ""
 city: Saint John
-street: "Charlotte Street"
-housenumber: 143
+street: Charlotte Street
+housenumber: "143"
 phone: ""
 opening_hours: ""
 website: ""

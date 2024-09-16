@@ -1,11 +1,11 @@
 id: 794326283
-type: way
+type: node
 latitude: 45.72679
 longitude: -65.52165
 postcode: ""
 city: Sussex
-street: "Sunnyside Drive"
-housenumber: 34
+street: Sunnyside Drive
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

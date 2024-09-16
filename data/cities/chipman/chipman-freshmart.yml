@@ -1,11 +1,11 @@
 id: 831853704
-type: way
+type: node
 latitude: 46.1661
 longitude: -65.88476
 postcode: ""
 city: Chipman
-street: "Main Street"
-housenumber: 444
+street: Main Street
+housenumber: "444"
 phone: ""
 opening_hours: ""
 website: ""

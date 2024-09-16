@@ -1,11 +1,11 @@
 id: 102847658
-type: way
+type: node
 latitude: 45.96159
 longitude: -66.65531
 postcode: ""
 city: Fredericton
-street: "Saunders Street"
-housenumber: 50
+street: Saunders Street
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 166987070
-type: way
+type: node
 latitude: 45.30166
 longitude: -66.00789
 postcode: ""
 city: Saint John
-street: "McAllister Drive"
-housenumber: 550
+street: McAllister Drive
+housenumber: "550"
 phone: ""
 opening_hours: ""
 website: ""

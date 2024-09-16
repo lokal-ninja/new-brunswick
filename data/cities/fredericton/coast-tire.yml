@@ -1,11 +1,11 @@
 id: 102747817
-type: way
+type: node
 latitude: 45.91062
 longitude: -66.61546
 postcode: ""
 city: Fredericton
-street: "Wilsey Road"
-housenumber: 749
+street: Wilsey Road
+housenumber: "749"
 phone: ""
 opening_hours: ""
 website: ""

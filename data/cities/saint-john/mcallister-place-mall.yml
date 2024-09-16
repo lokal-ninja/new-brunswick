@@ -1,11 +1,11 @@
 id: 35261451
-type: way
+type: node
 latitude: 45.30527
 longitude: -66.0175
 postcode: ""
 city: Saint John
-street: "Westmorland Road"
-housenumber: 519
+street: Westmorland Road
+housenumber: "519"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 687450466
-type: way
+type: node
 latitude: 45.78395
 longitude: -66.14539
 postcode: ""
 city: Gagetown
-street: "Peters Road"
-housenumber: 8
+street: Peters Road
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

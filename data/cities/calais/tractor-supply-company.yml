@@ -1,11 +1,11 @@
 id: 497760352
-type: way
+type: node
 latitude: 45.17779
 longitude: -67.27513
 postcode: "04619"
 city: Calais
-street: "South Street"
-housenumber: 289
-phone: "+1 207-454-0671"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: South Street
+housenumber: "289"
+phone: +1 207-454-0671
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

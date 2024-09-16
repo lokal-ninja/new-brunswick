@@ -1,11 +1,11 @@
 id: 1011223119
-type: way
+type: node
 latitude: 45.56079
 longitude: -65.94297
-postcode: "E5N 8B2"
+postcode: E5N 8B2
 city: Erbs Cove
-street: "Ganong Road"
-housenumber: 89
+street: Ganong Road
+housenumber: "89"
 phone: "+15068325948"
 opening_hours: ""
 website: ""

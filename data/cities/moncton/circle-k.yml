@@ -1,11 +1,11 @@
 id: 121475450
-type: way
+type: node
 latitude: 46.11497
 longitude: -64.83673
-postcode: "E1G 1A3"
+postcode: E1G 1A3
 city: Moncton
-street: "Mountain Road"
-housenumber: 1515
+street: Mountain Road
+housenumber: "1515"
 phone: ""
 opening_hours: ""
 website: ""

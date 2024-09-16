@@ -1,11 +1,11 @@
 id: 321520381
-type: way
+type: node
 latitude: 46.10049
 longitude: -64.77306
-postcode: "E1A 2K2"
+postcode: E1A 2K2
 city: Moncton
-street: "Lewisville Road"
-housenumber: 60
-phone: "+1-506-857-1103"
-opening_hours: "Mo-Fr 07:00-17:00"
-website: "https://locations.unitedrentals.com/nb/moncton/e38"
+street: Lewisville Road
+housenumber: "60"
+phone: +1-506-857-1103
+opening_hours: Mo-Fr 07:00-17:00
+website: https://locations.unitedrentals.com/nb/moncton/e38

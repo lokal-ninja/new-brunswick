@@ -1,11 +1,11 @@
 id: 446753331
-type: way
+type: node
 latitude: 45.07293
 longitude: -67.05105
-postcode: "E5B 1B5"
+postcode: E5B 1B5
 city: St. Andrews
-street: "Water Street"
-housenumber: 248
-phone: "+1-506-529-4746"
+street: Water Street
+housenumber: "248"
+phone: +1-506-529-4746
 opening_hours: ""
 website: ""

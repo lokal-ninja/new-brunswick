@@ -1,11 +1,11 @@
 id: 71368970
-type: way
+type: node
 latitude: 46.09885
 longitude: -64.77408
 postcode: ""
 city: Moncton
-street: "Lewisville Road"
-housenumber: 10
+street: Lewisville Road
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://www.taylorford.ca/"
+website: https://www.taylorford.ca/

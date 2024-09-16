@@ -1,11 +1,11 @@
 id: 180421422
-type: way
+type: node
 latitude: 46.0639
 longitude: -64.80882
-postcode: "E1B 3K7"
+postcode: E1B 3K7
 city: Riverview
-street: "Coverdale Road"
-housenumber: 535
+street: Coverdale Road
+housenumber: "535"
 phone: ""
-opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-20:00; Su 09:00-17:00"
-website: "https://www.kent.ca/kbs/en/info.jsp?content=locator_riverview"
+opening_hours: Mo-Fr 07:00-21:00; Sa 07:00-20:00; Su 09:00-17:00
+website: https://www.kent.ca/kbs/en/info.jsp?content=locator_riverview

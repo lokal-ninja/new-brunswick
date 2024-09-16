@@ -1,11 +1,11 @@
 id: 498329685
-type: way
+type: node
 latitude: 45.18906
 longitude: -67.28283
 postcode: "04619"
 city: Calais
-street: "Main Street"
-housenumber: 153
+street: Main Street
+housenumber: "153"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.dollartree.com/locations/me/calais/6266/"
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.dollartree.com/locations/me/calais/6266/

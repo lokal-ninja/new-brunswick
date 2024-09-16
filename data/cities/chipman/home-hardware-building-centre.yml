@@ -1,11 +1,11 @@
 id: 831853689
-type: way
+type: node
 latitude: 46.15523
 longitude: -65.8904
 postcode: ""
 city: Chipman
-street: "Industrial Park"
-housenumber: 11
+street: Industrial Park
+housenumber: "11"
 phone: ""
 opening_hours: ""
-website: "https://www.homehardware.ca/en/store/32617"
+website: https://www.homehardware.ca/en/store/32617

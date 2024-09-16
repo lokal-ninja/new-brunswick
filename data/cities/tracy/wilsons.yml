@@ -1,11 +1,11 @@
 id: 548874848
-type: way
+type: node
 latitude: 45.67748
 longitude: -66.68338
-postcode: "E5L 1B5"
+postcode: E5L 1B5
 city: Tracy
-street: "Heritage Drive"
-housenumber: 4366
-phone: "+1-506-368-1100"
+street: Heritage Drive
+housenumber: "4366"
+phone: +1-506-368-1100
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 968551666
-type: way
+type: node
 latitude: 45.21958
 longitude: -66.17147
 postcode: ""
 city: Saint John
-street: "Galbraith Place"
-housenumber: 30
+street: Galbraith Place
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

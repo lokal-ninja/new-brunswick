@@ -1,11 +1,11 @@
 id: 319696196
-type: way
+type: node
 latitude: 46.11667
 longitude: -64.78359
 postcode: ""
 city: Moncton
-street: "McLaughlin Drive"
-housenumber: 369
+street: McLaughlin Drive
+housenumber: "369"
 phone: ""
 opening_hours: ""
 website: ""

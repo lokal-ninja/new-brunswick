@@ -1,11 +1,11 @@
 id: 548892147
-type: way
+type: node
 latitude: 45.93281
 longitude: -65.16771
-postcode: "E4Z 4W1"
+postcode: E4Z 4W1
 city: Petitcodiac
-street: "Smith Street"
-housenumber: 16
-phone: "+1-506-756-2567"
+street: Smith Street
+housenumber: "16"
+phone: +1-506-756-2567
 opening_hours: ""
 website: ""

@@ -2,10 +2,10 @@ id: 3060148217
 type: node
 latitude: 45.96249
 longitude: -66.64559
-postcode: "E3B 1E3"
+postcode: E3B 1E3
 city: Fredericton
-street: "King Street"
-housenumber: 334
+street: King Street
+housenumber: "334"
 phone: ""
-opening_hours: "Mo-Su 09:00-09:00"
+opening_hours: Mo-Su 09:00-09:00
 website: ""

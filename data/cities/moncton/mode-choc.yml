@@ -1,11 +1,11 @@
 id: 321709655
-type: way
+type: node
 latitude: 46.11806
 longitude: -64.82135
-postcode: "E1G 0Z5"
+postcode: E1G 0Z5
 city: Moncton
-street: "Wyse Street"
-housenumber: 110
+street: Wyse Street
+housenumber: "110"
 phone: "+15063848800"
 opening_hours: ""
-website: "https://www.modechoc.ca/"
+website: https://www.modechoc.ca/

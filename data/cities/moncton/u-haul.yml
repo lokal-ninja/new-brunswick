@@ -1,11 +1,11 @@
 id: 96669119
-type: way
+type: node
 latitude: 46.10523
 longitude: -64.82327
-postcode: "E1C 2T3"
+postcode: E1C 2T3
 city: Moncton
-street: "Mountain Road"
-housenumber: 1106
-phone: "+1-506-853-7641"
+street: Mountain Road
+housenumber: "1106"
+phone: +1-506-853-7641
 opening_hours: ""
 website: ""

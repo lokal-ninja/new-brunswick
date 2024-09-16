@@ -1,11 +1,11 @@
 id: 765553522
-type: way
+type: node
 latitude: 45.92243
 longitude: -66.71188
 postcode: ""
 city: Hanwell
-street: "Timothy Drive"
-housenumber: 125
+street: Timothy Drive
+housenumber: "125"
 phone: ""
 opening_hours: ""
 website: ""

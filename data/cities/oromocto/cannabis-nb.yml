@@ -1,11 +1,11 @@
 id: 693959009
-type: way
+type: node
 latitude: 45.83153
 longitude: -66.48865
-postcode: "E2V 4T4"
+postcode: E2V 4T4
 city: Oromocto
-street: "Commerce Drive"
-housenumber: 16
+street: Commerce Drive
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00, Su 12:00-17:00"
+opening_hours: Mo-Sa 10:00-21:00, Su 12:00-17:00
 website: ""

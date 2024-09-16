@@ -1,11 +1,11 @@
 id: 134572077
-type: way
+type: node
 latitude: 45.27994
 longitude: -66.07918
 postcode: ""
 city: Saint John
-street: "Lansdowne Avenue"
-housenumber: 149
+street: Lansdowne Avenue
+housenumber: "149"
 phone: ""
 opening_hours: ""
 website: ""

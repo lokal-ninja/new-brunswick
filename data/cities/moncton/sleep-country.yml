@@ -1,11 +1,11 @@
 id: 341440094
-type: way
+type: node
 latitude: 46.12076
 longitude: -64.82783
-postcode: "E1G 0Z5"
+postcode: E1G 0Z5
 city: Moncton
-street: "Wyse Street"
-housenumber: 20
-phone: "+1-506-854-6624"
-opening_hours: "10:00-21:00"
-website: "https://www.sleepcountry.ca/"
+street: Wyse Street
+housenumber: "20"
+phone: +1-506-854-6624
+opening_hours: 10:00-21:00
+website: https://www.sleepcountry.ca/

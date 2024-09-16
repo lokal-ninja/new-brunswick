@@ -1,11 +1,11 @@
 id: 96775073
-type: way
+type: node
 latitude: 46.11628
 longitude: -64.8252
-postcode: "E1C 9G6"
+postcode: E1C 9G6
 city: Moncton
-street: "Mapleton Road"
-housenumber: 235
+street: Mapleton Road
+housenumber: "235"
 phone: ""
 opening_hours: ""
 website: ""

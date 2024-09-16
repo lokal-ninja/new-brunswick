@@ -1,11 +1,11 @@
 id: 164500092
-type: way
+type: node
 latitude: 47.73031
 longitude: -65.74544
 postcode: ""
 city: Nigadoo
-street: "Avenue du Moulin"
-housenumber: 365
+street: Avenue du Moulin
+housenumber: "365"
 phone: ""
 opening_hours: ""
 website: ""

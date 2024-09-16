@@ -1,11 +1,11 @@
 id: 121475908
-type: way
+type: node
 latitude: 46.11433
 longitude: -64.82654
 postcode: ""
 city: Moncton
-street: "boulevard Plaza Boulevard"
-housenumber: 5
-phone: "+1 506 382 6698"
+street: boulevard Plaza Boulevard
+housenumber: "5"
+phone: +1 506 382 6698
 opening_hours: ""
-website: "https://www.esso.ca/en-ca/find-station/esso-moncton-nb-essocouchetard2301-200303850"
+website: https://www.esso.ca/en-ca/find-station/esso-moncton-nb-essocouchetard2301-200303850

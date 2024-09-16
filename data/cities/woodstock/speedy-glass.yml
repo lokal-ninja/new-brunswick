@@ -1,11 +1,11 @@
 id: 1108277368
-type: way
+type: node
 latitude: 46.17202
 longitude: -67.60371
 postcode: ""
 city: Woodstock
-street: "Connell Road"
-housenumber: 407
+street: Connell Road
+housenumber: "407"
 phone: ""
 opening_hours: ""
 website: ""

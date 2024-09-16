@@ -1,11 +1,11 @@
 id: 191785471
-type: way
+type: node
 latitude: 45.95756
 longitude: -66.6563
 postcode: ""
 city: Fredericton
-street: "Dundonald Street"
-housenumber: 131
+street: Dundonald Street
+housenumber: "131"
 phone: ""
 opening_hours: ""
 website: ""

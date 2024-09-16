@@ -1,11 +1,11 @@
 id: 180413577
-type: way
+type: node
 latitude: 46.05134
 longitude: -64.79518
-postcode: "E1B 0K3"
+postcode: E1B 0K3
 city: Riverview
-street: "Pinewood Road"
-housenumber: 525
+street: Pinewood Road
+housenumber: "525"
 phone: ""
 opening_hours: ""
-website: "https://canadiantire.ca"
+website: https://canadiantire.ca

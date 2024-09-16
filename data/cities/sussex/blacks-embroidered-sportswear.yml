@@ -1,11 +1,11 @@
 id: 525415211
-type: way
+type: node
 latitude: 45.73028
 longitude: -65.48653
 postcode: ""
 city: Sussex
-street: "Turner Court"
-housenumber: 20
+street: Turner Court
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

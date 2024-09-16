@@ -1,11 +1,11 @@
 id: 673972355
-type: way
+type: node
 latitude: 46.11844
 longitude: -64.84244
 postcode: ""
 city: Moncton
-street: "Mountain Road"
-housenumber: 1684
+street: Mountain Road
+housenumber: "1684"
 phone: ""
 opening_hours: ""
 website: ""

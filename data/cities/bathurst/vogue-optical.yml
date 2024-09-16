@@ -1,11 +1,11 @@
 id: 700006705
-type: way
+type: node
 latitude: 47.63937
 longitude: -65.68099
 postcode: ""
 city: Bathurst
-street: "Saint Peter Avenue"
-housenumber: 1309
+street: Saint Peter Avenue
+housenumber: "1309"
 phone: ""
 opening_hours: ""
 website: ""

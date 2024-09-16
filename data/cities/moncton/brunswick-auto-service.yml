@@ -1,11 +1,11 @@
 id: 503574083
-type: way
+type: node
 latitude: 46.10046
 longitude: -64.77489
 postcode: ""
 city: Moncton
-street: "Lewisville Road"
-housenumber: 37
-phone: "+1-506-858-7100"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://brunswickauto.ca/"
+street: Lewisville Road
+housenumber: "37"
+phone: +1-506-858-7100
+opening_hours: Mo-Fr 08:00-17:00
+website: https://brunswickauto.ca/

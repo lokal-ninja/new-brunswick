@@ -1,11 +1,11 @@
 id: 62279323
-type: way
+type: node
 latitude: 45.2767
 longitude: -66.05343
-postcode: "E2L 4M5"
+postcode: E2L 4M5
 city: Saint John
-street: "Prince Edward Street"
-housenumber: 100
+street: Prince Edward Street
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

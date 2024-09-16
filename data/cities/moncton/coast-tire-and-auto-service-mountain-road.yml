@@ -1,11 +1,11 @@
 id: 674020948
-type: way
+type: node
 latitude: 46.09862
 longitude: -64.80174
-postcode: "E1C 2P6"
+postcode: E1C 2P6
 city: Moncton
-street: "Mountain Road"
-housenumber: 678
-phone: "+1 506 857 3912"
-opening_hours: "Mo-Fr 08:00-17:00"
+street: Mountain Road
+housenumber: "678"
+phone: +1 506 857 3912
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

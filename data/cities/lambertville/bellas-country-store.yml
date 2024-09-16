@@ -1,11 +1,11 @@
 id: 742025834
-type: way
+type: node
 latitude: 45.01273
 longitude: -66.94372
 postcode: ""
 city: Lambertville
-street: "Route 772"
-housenumber: 139
+street: Route 772
+housenumber: "139"
 phone: ""
 opening_hours: ""
 website: ""

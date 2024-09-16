@@ -1,11 +1,11 @@
 id: 103372508
-type: way
+type: node
 latitude: 45.94376
 longitude: -66.66942
 postcode: ""
 city: Fredericton
-street: "Smythe Street"
-housenumber: 1165
+street: Smythe Street
+housenumber: "1165"
 phone: ""
 opening_hours: ""
 website: ""

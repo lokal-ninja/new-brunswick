@@ -1,11 +1,11 @@
 id: 103372485
-type: way
+type: node
 latitude: 45.94351
 longitude: -66.67031
 postcode: ""
 city: Fredericton
-street: "Prospect Street"
-housenumber: 981
+street: Prospect Street
+housenumber: "981"
 phone: ""
 opening_hours: ""
 website: ""

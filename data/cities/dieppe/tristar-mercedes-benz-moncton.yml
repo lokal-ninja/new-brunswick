@@ -1,11 +1,11 @@
 id: 615094753
-type: way
+type: node
 latitude: 46.12535
 longitude: -64.67749
 postcode: ""
 city: Dieppe
-street: "Aviation Avenue"
-housenumber: 1200
-phone: "+1 5068591940"
+street: Aviation Avenue
+housenumber: "1200"
+phone: +1 5068591940
 opening_hours: ""
-website: "https://www.mercedes-benz-moncton.ca/"
+website: https://www.mercedes-benz-moncton.ca/

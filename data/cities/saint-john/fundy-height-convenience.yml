@@ -1,11 +1,11 @@
 id: 163481316
-type: way
+type: node
 latitude: 45.25022
 longitude: -66.08677
 postcode: ""
 city: Saint John
-street: "Dunn Avenue"
-housenumber: 658
+street: Dunn Avenue
+housenumber: "658"
 phone: ""
 opening_hours: ""
 website: ""

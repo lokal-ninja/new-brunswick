@@ -1,11 +1,11 @@
 id: 71368943
-type: way
+type: node
 latitude: 46.09422
 longitude: -64.75998
 postcode: ""
 city: Dieppe
-street: "Paul Street"
-housenumber: 477
+street: Paul Street
+housenumber: "477"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00; Su 12:00-17:00"
+opening_hours: Mo-Sa 10:00-21:00; Su 12:00-17:00
 website: ""

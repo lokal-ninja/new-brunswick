@@ -1,11 +1,11 @@
 id: 175683783
-type: way
+type: node
 latitude: 46.1305
 longitude: -64.87392
-postcode: "E1G 2J5"
+postcode: E1G 2J5
 city: Moncton
-street: "Mountain Road"
-housenumber: 2463
-phone: "+1 506-856-8100"
+street: Mountain Road
+housenumber: "2463"
+phone: +1 506-856-8100
 opening_hours: ""
-website: "https://www.homehardware.ca/en/store/30534"
+website: https://www.homehardware.ca/en/store/30534

@@ -1,11 +1,11 @@
 id: 103741032
-type: way
+type: node
 latitude: 45.98375
 longitude: -66.66634
 postcode: ""
 city: Fredericton
-street: "Sunset Drive"
-housenumber: 383
+street: Sunset Drive
+housenumber: "383"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 398420602
-type: way
+type: node
 latitude: 45.9459
 longitude: -66.69434
 postcode: ""
 city: Fredericton
-street: "Bishop Drive"
-housenumber: 10
+street: Bishop Drive
+housenumber: "10"
 phone: ""
-opening_hours: "Mo,Th 09:00-20:00; Tu,We,Fr 09:00-18:00; Sa 09:00-16:00"
-website: "https://www.crcbongardsrv.ca/"
+opening_hours: Mo,Th 09:00-20:00; Tu,We,Fr 09:00-18:00; Sa 09:00-16:00
+website: https://www.crcbongardsrv.ca/

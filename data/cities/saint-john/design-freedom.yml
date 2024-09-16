@@ -1,11 +1,11 @@
 id: 166551458
-type: way
+type: node
 latitude: 45.27195
 longitude: -66.05998
 postcode: ""
 city: Saint John
-street: "Germain Street"
-housenumber: 116
+street: Germain Street
+housenumber: "116"
 phone: ""
 opening_hours: ""
 website: ""

@@ -2,10 +2,10 @@ id: 6631379028
 type: node
 latitude: 45.96344
 longitude: -66.64453
-postcode: "E3B 1B2"
+postcode: E3B 1B2
 city: Fredericton
-street: "Queen Street"
-housenumber: 346
+street: Queen Street
+housenumber: "346"
 phone: ""
-opening_hours: "Tu-We 09:30-17:00, Th-Fr 08:00-15:00, Sa 10:00-15:00"
-website: "https://www.thedonutbarfreddy.com/"
+opening_hours: Tu-We 09:30-17:00, Th-Fr 08:00-15:00, Sa 10:00-15:00
+website: https://www.thedonutbarfreddy.com/

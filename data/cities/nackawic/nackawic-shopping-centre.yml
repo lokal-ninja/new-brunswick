@@ -1,11 +1,11 @@
 id: 73708468
-type: way
+type: node
 latitude: 45.99511
 longitude: -67.23657
 postcode: ""
 city: Nackawic
-street: "Otis Drive"
-housenumber: 135
+street: Otis Drive
+housenumber: "135"
 phone: ""
 opening_hours: ""
 website: ""

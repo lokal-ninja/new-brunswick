@@ -1,11 +1,11 @@
 id: 375151757
-type: way
+type: node
 latitude: 45.89737
 longitude: -64.36847
-postcode: "E4L 4A9"
+postcode: E4L 4A9
 city: Sackville
-street: "Main Street"
-housenumber: 93
-phone: "+1-506-536-2275"
+street: Main Street
+housenumber: "93"
+phone: +1-506-536-2275
 opening_hours: ""
 website: ""

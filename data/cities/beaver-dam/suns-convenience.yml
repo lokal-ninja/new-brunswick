@@ -1,11 +1,11 @@
 id: 104219518
-type: way
+type: node
 latitude: 45.81246
 longitude: -66.68555
 postcode: ""
 city: Beaver Dam
-street: "Route 101"
-housenumber: 2315
+street: Route 101
+housenumber: "2315"
 phone: ""
 opening_hours: ""
 website: ""

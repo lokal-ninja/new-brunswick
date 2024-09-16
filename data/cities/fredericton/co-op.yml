@@ -1,11 +1,11 @@
 id: 102746241
-type: way
+type: node
 latitude: 45.90952
 longitude: -66.61745
 postcode: ""
 city: Fredericton
-street: "Doak Road"
-housenumber: 170
+street: Doak Road
+housenumber: "170"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 34964188
-type: way
+type: node
 latitude: 45.96118
 longitude: -66.64456
 postcode: ""
 city: Fredericton
-street: "King Street"
-housenumber: 440
+street: King Street
+housenumber: "440"
 phone: ""
-opening_hours: "Mo-We 09:00-18:00, Th,Fr 09:00-20:00, Sa 09:00-17:00"
-website: "www.kingsplace.ca"
+opening_hours: Mo-We 09:00-18:00, Th,Fr 09:00-20:00, Sa 09:00-17:00
+website: www.kingsplace.ca

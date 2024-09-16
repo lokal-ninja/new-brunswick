@@ -1,11 +1,11 @@
 id: 389110357
-type: way
+type: node
 latitude: 46.12768
 longitude: -64.83342
-postcode: "E1G 5V7"
+postcode: E1G 5V7
 city: Moncton
-street: "Cabela Court"
-housenumber: 50
-phone: "+1-506-388-4400"
-opening_hours: "Mo-Fr 08:00-21:00; Sa 08:00-18:00; Su 09:00-17:00"
-website: "https://www.princessauto.com/"
+street: Cabela Court
+housenumber: "50"
+phone: +1-506-388-4400
+opening_hours: Mo-Fr 08:00-21:00; Sa 08:00-18:00; Su 09:00-17:00
+website: https://www.princessauto.com/

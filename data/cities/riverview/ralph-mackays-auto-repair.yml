@@ -1,11 +1,11 @@
 id: 139548912
-type: way
+type: node
 latitude: 46.06172
 longitude: -64.81768
-postcode: "E1B 3H5"
+postcode: E1B 3H5
 city: Riverview
-street: "Biggs Drive"
-housenumber: 24
+street: Biggs Drive
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-12:00; Sa,Su off"
-website: "http://www.ralphmackay.mechanicnet.com/"
+opening_hours: Mo-Th 08:00-17:00; Fr 08:00-12:00; Sa,Su off
+website: http://www.ralphmackay.mechanicnet.com/

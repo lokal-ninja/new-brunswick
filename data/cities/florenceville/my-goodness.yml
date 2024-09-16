@@ -1,11 +1,11 @@
 id: 495076911
-type: way
+type: node
 latitude: 46.44248
 longitude: -67.61884
 postcode: ""
 city: Florenceville
-street: "Main Street"
-housenumber: 8756
+street: Main Street
+housenumber: "8756"
 phone: ""
 opening_hours: ""
 website: ""

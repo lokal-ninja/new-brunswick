@@ -1,11 +1,11 @@
 id: 762668733
-type: way
+type: node
 latitude: 46.04956
 longitude: -64.79463
-postcode: "E1B 0J6"
+postcode: E1B 0J6
 city: Riverview
-street: "Findlay Boulevard"
-housenumber: 1160
+street: Findlay Boulevard
+housenumber: "1160"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00, Su 12:00-17:00"
-website: "https://www.anbl.com/"
+opening_hours: Mo-Sa 10:00-21:00, Su 12:00-17:00
+website: https://www.anbl.com/

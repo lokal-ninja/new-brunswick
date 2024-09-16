@@ -1,11 +1,11 @@
 id: 272679236
-type: way
+type: node
 latitude: 45.6013
 longitude: -64.946
 postcode: ""
 city: Alma
-street: "Main Street"
-housenumber: 8604
-phone: "+1 506 887 2345"
-opening_hours: "08:00-21:00"
+street: Main Street
+housenumber: "8604"
+phone: +1 506 887 2345
+opening_hours: 08:00-21:00
 website: ""

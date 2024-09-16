@@ -1,11 +1,11 @@
 id: 161004555
-type: way
+type: node
 latitude: 47.2469
 longitude: -65.07756
 postcode: ""
 city: Neguac
-street: "Rue Principale"
-housenumber: 790
+street: Rue Principale
+housenumber: "790"
 phone: ""
 opening_hours: ""
-website: "https://www.homehardware.ca/en/store/30110"
+website: https://www.homehardware.ca/en/store/30110

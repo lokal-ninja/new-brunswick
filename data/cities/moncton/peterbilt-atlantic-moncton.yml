@@ -1,11 +1,11 @@
 id: 674017640
-type: way
+type: node
 latitude: 46.13217
 longitude: -64.72228
 postcode: ""
 city: Moncton
-street: "Venture Drive"
-housenumber: 565
+street: Venture Drive
+housenumber: "565"
 phone: ""
 opening_hours: ""
 website: ""

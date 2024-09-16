@@ -1,11 +1,11 @@
 id: 179193056
-type: way
+type: node
 latitude: 46.55594
 longitude: -66.12665
 postcode: ""
 city: Doaktown
-street: "Main Street"
-housenumber: 420
+street: Main Street
+housenumber: "420"
 phone: ""
 opening_hours: ""
-website: "https://www.homehardware.ca/en/store/30770"
+website: https://www.homehardware.ca/en/store/30770

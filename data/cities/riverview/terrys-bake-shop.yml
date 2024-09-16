@@ -1,11 +1,11 @@
 id: 332972652
-type: way
+type: node
 latitude: 46.0732
 longitude: -64.75425
-postcode: "E1B 3V8"
+postcode: E1B 3V8
 city: Riverview
-street: "Hillsborough Road"
-housenumber: 605
-phone: "+1-506-386-8510"
+street: Hillsborough Road
+housenumber: "605"
+phone: +1-506-386-8510
 opening_hours: ""
 website: ""

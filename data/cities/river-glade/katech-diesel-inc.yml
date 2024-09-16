@@ -1,11 +1,11 @@
 id: 1103173521
-type: way
+type: node
 latitude: 45.9769
 longitude: -65.12907
 postcode: ""
 city: River Glade
-street: "Route 106"
-housenumber: 4113
+street: Route 106
+housenumber: "4113"
 phone: ""
 opening_hours: ""
 website: ""

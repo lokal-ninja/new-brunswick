@@ -1,11 +1,11 @@
 id: 179483437
-type: way
+type: node
 latitude: 45.27166
 longitude: -66.0611
 postcode: ""
 city: Saint John
-street: "Canterbury Street"
-housenumber: 49
+street: Canterbury Street
+housenumber: "49"
 phone: ""
 opening_hours: ""
 website: ""

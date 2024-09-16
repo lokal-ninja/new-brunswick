@@ -4,8 +4,8 @@ latitude: 45.94623
 longitude: -66.6431
 postcode: ""
 city: Fredericton
-street: "5 MacAulay Lane"
-housenumber: 5
+street: 5 MacAulay Lane
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Th 07:30-21:00"
-website: "https://javamoose.com/"
+opening_hours: Mo-Th 07:30-21:00
+website: https://javamoose.com/

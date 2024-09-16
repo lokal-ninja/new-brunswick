@@ -1,11 +1,11 @@
 id: 126746218
-type: way
+type: node
 latitude: 45.92615
 longitude: -66.66275
 postcode: ""
 city: Fredericton
-street: "Wayne Squibb Boulevard"
-housenumber: 25
+street: Wayne Squibb Boulevard
+housenumber: "25"
 phone: ""
 opening_hours: ""
-website: "https://www.costco.ca/warehouse-locations/fredericton-nb-1090.html"
+website: https://www.costco.ca/warehouse-locations/fredericton-nb-1090.html

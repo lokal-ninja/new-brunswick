@@ -1,11 +1,11 @@
 id: 766032983
-type: way
+type: node
 latitude: 47.04919
 longitude: -67.7372
 postcode: ""
 city: Grand Falls / Grand-sault
-street: "Broadway Boulevard"
-housenumber: 103
+street: Broadway Boulevard
+housenumber: "103"
 phone: ""
 opening_hours: ""
 website: ""

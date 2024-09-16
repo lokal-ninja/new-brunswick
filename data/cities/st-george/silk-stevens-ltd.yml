@@ -1,11 +1,11 @@
 id: 671323486
-type: way
+type: node
 latitude: 45.13084
 longitude: -66.82217
 postcode: ""
 city: St. George
-street: "Main Street"
-housenumber: 35
+street: Main Street
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

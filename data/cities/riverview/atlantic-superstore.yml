@@ -1,11 +1,11 @@
 id: 180427552
-type: way
+type: node
 latitude: 46.06566
 longitude: -64.80196
 postcode: ""
 city: Riverview
-street: "Coverdale Road"
-housenumber: 429
+street: Coverdale Road
+housenumber: "429"
 phone: ""
 opening_hours: ""
-website: "http://www.atlanticsuperstore.ca/LCLOnline/store_details_landing_page.jsp?storeId=38"
+website: http://www.atlanticsuperstore.ca/LCLOnline/store_details_landing_page.jsp?storeId=38

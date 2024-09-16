@@ -1,11 +1,11 @@
 id: 303412043
-type: way
+type: node
 latitude: 48.06629
 longitude: -66.37972
 postcode: ""
 city: Dalhousie
-street: "William Street"
-housenumber: 456
+street: William Street
+housenumber: "456"
 phone: ""
 opening_hours: ""
 website: ""

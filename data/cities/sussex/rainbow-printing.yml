@@ -1,11 +1,11 @@
 id: 525419336
-type: way
+type: node
 latitude: 45.7296
 longitude: -65.48233
 postcode: ""
 city: Sussex
-street: "Jones Court"
-housenumber: 3
+street: Jones Court
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

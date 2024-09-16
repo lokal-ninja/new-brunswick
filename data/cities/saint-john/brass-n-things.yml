@@ -1,11 +1,11 @@
 id: 165358841
-type: way
+type: node
 latitude: 45.26686
 longitude: -66.05293
 postcode: ""
 city: Saint John
-street: "Broad Street"
-housenumber: 72
+street: Broad Street
+housenumber: "72"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 497453176
-type: way
+type: node
 latitude: 45.94058
 longitude: -66.67023
-postcode: "E3C 2M6"
+postcode: E3C 2M6
 city: Fredericton
-street: "Bishop Drive"
-housenumber: 709
+street: Bishop Drive
+housenumber: "709"
 phone: ""
-opening_hours: "Mo-Th 08:00-19:00; Fr 08:30-18:00; Sa 09:00-13:00; Su off"
+opening_hours: Mo-Th 08:00-19:00; Fr 08:30-18:00; Sa 09:00-13:00; Su off
 website: ""

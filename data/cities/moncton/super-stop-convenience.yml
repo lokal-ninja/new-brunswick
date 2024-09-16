@@ -1,11 +1,11 @@
 id: 321981777
-type: way
+type: node
 latitude: 46.12458
 longitude: -64.77125
 postcode: ""
 city: Moncton
-street: "Elmwood Drive"
-housenumber: 660
+street: Elmwood Drive
+housenumber: "660"
 phone: ""
 opening_hours: ""
 website: ""

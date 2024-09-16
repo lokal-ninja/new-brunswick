@@ -1,11 +1,11 @@
 id: 1105580499
-type: way
+type: node
 latitude: 44.95556
 longitude: -67.0422
 postcode: "04667"
 city: Pleasant Point
-street: "Back Road"
-housenumber: 8
+street: Back Road
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

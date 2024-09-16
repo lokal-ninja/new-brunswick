@@ -1,11 +1,11 @@
 id: 309047713
-type: way
+type: node
 latitude: 46.11239
 longitude: -64.77263
 postcode: ""
 city: Moncton
-street: "Elmwood Drive"
-housenumber: 257
+street: Elmwood Drive
+housenumber: "257"
 phone: ""
 opening_hours: ""
-website: "https://www.homehardware.ca/en/store/30225"
+website: https://www.homehardware.ca/en/store/30225

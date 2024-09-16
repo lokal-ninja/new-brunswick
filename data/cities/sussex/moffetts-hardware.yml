@@ -1,11 +1,11 @@
 id: 725201923
-type: way
+type: node
 latitude: 45.7233
 longitude: -65.51243
 postcode: ""
 city: Sussex
-street: "Broad Street"
-housenumber: 23
+street: Broad Street
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

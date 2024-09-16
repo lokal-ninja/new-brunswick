@@ -1,11 +1,11 @@
 id: 123534823
-type: way
+type: node
 latitude: 46.07579
 longitude: -64.81241
 postcode: ""
 city: Moncton
-street: "West Main Street"
-housenumber: 2155
+street: West Main Street
+housenumber: "2155"
 phone: ""
 opening_hours: ""
-website: "https://www.lounsburymoncton.com/index.htm"
+website: https://www.lounsburymoncton.com/index.htm

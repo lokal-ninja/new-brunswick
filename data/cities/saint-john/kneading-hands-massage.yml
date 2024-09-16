@@ -1,11 +1,11 @@
 id: 176196680
-type: way
+type: node
 latitude: 45.27486
 longitude: -66.06051
 postcode: ""
 city: Saint John
-street: "Union Street"
-housenumber: 135
+street: Union Street
+housenumber: "135"
 phone: ""
 opening_hours: ""
 website: ""

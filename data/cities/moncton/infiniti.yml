@@ -1,11 +1,11 @@
 id: 865451601
-type: way
+type: node
 latitude: 46.11634
 longitude: -64.82054
 postcode: ""
 city: Moncton
-street: "Carson Drive"
-housenumber: 195
+street: Carson Drive
+housenumber: "195"
 phone: ""
 opening_hours: ""
 website: ""

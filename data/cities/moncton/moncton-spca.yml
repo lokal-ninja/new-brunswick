@@ -1,11 +1,11 @@
 id: 321215875
-type: way
+type: node
 latitude: 46.13797
 longitude: -64.75183
 postcode: ""
 city: Moncton
-street: "Greenock Street"
-housenumber: 116
+street: Greenock Street
+housenumber: "116"
 phone: ""
 opening_hours: ""
 website: ""

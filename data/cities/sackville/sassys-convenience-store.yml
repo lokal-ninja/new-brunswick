@@ -1,11 +1,11 @@
 id: 398824160
-type: way
+type: node
 latitude: 45.90253
 longitude: -64.37421
-postcode: "E4L 4B4"
+postcode: E4L 4B4
 city: Sackville
-street: "Main Street"
-housenumber: 166
-phone: "+1-506-536-2003"
+street: Main Street
+housenumber: "166"
+phone: +1-506-536-2003
 opening_hours: ""
 website: ""

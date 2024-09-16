@@ -1,11 +1,11 @@
 id: 168521987
-type: way
+type: node
 latitude: 46.09361
 longitude: -64.75571
 postcode: ""
 city: Dieppe
-street: "Champlain Street"
-housenumber: 64
+street: Champlain Street
+housenumber: "64"
 phone: ""
 opening_hours: ""
 website: ""

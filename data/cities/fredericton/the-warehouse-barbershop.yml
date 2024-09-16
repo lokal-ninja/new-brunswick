@@ -1,11 +1,11 @@
 id: 368055735
-type: way
+type: node
 latitude: 45.95894
 longitude: -66.64047
 postcode: ""
 city: Fredericton
-street: "Regent Street"
-housenumber: 162
+street: Regent Street
+housenumber: "162"
 phone: ""
 opening_hours: ""
 website: ""

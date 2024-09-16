@@ -1,11 +1,11 @@
 id: 297676234
-type: way
+type: node
 latitude: 46.07753
 longitude: -64.79702
-postcode: "E1E 4S7"
+postcode: E1E 4S7
 city: Moncton
-street: "Main Street"
-housenumber: 1810
+street: Main Street
+housenumber: "1810"
 phone: ""
 opening_hours: ""
-website: "https://www.rallyemotors-nissan.ca/"
+website: https://www.rallyemotors-nissan.ca/

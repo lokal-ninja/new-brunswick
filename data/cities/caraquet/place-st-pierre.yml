@@ -1,11 +1,11 @@
 id: 569475231
-type: way
+type: node
 latitude: 47.77785
 longitude: -64.99269
 postcode: ""
 city: Caraquet
-street: "Boulevard Saint-Pierre Ouest"
-housenumber: 445
+street: Boulevard Saint-Pierre Ouest
+housenumber: "445"
 phone: ""
 opening_hours: ""
 website: ""

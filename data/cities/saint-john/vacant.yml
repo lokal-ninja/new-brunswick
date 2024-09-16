@@ -1,11 +1,11 @@
 id: 179491092
-type: way
+type: node
 latitude: 45.27098
 longitude: -66.06208
 postcode: ""
 city: Saint John
-street: "Water Street"
-housenumber: 62
+street: Water Street
+housenumber: "62"
 phone: ""
 opening_hours: ""
 website: ""

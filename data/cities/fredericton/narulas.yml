@@ -1,11 +1,11 @@
 id: 368701000
-type: way
+type: node
 latitude: 45.95384
 longitude: -66.63504
 postcode: ""
 city: Fredericton
-street: "University Avenue"
-housenumber: 292
+street: University Avenue
+housenumber: "292"
 phone: ""
 opening_hours: ""
 website: ""

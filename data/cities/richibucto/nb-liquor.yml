@@ -1,11 +1,11 @@
 id: 756105638
-type: way
+type: node
 latitude: 46.67353
 longitude: -64.87327
 postcode: ""
 city: Richibucto
-street: "Cooperative Street"
-housenumber: 25
+street: Cooperative Street
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

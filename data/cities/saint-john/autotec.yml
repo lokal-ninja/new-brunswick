@@ -1,11 +1,11 @@
 id: 179489056
-type: way
+type: node
 latitude: 45.27002
 longitude: -66.0582
 postcode: ""
 city: Saint John
-street: "Duke Street"
-housenumber: 90
+street: Duke Street
+housenumber: "90"
 phone: ""
 opening_hours: ""
-website: "https://autotec.ca/"
+website: https://autotec.ca/

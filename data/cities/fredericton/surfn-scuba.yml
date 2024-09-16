@@ -1,11 +1,11 @@
 id: 368077839
-type: way
+type: node
 latitude: 45.95709
 longitude: -66.64271
-postcode: "E3B 3X2"
+postcode: E3B 3X2
 city: Fredericton
-street: "Regent Street"
-housenumber: 271
+street: Regent Street
+housenumber: "271"
 phone: ""
-opening_hours: "We 15:00-18:00, Th,Fr 12:30-18:00, Sa 10:00-15:00"
-website: "https://surfnscuba.ca/"
+opening_hours: We 15:00-18:00, Th,Fr 12:30-18:00, Sa 10:00-15:00
+website: https://surfnscuba.ca/

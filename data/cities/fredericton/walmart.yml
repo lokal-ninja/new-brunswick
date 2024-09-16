@@ -1,11 +1,11 @@
 id: 130866123
-type: way
+type: node
 latitude: 45.98826
 longitude: -66.6259
 postcode: ""
 city: Fredericton
-street: "Two Nations Crossing"
-housenumber: 125
+street: Two Nations Crossing
+housenumber: "125"
 phone: ""
-opening_hours: "07:00-22:00"
-website: "https://www.walmart.ca/en/stores-near-me/fredericton-north-nb-1067"
+opening_hours: 07:00-22:00
+website: https://www.walmart.ca/en/stores-near-me/fredericton-north-nb-1067

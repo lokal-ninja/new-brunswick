@@ -1,11 +1,11 @@
 id: 446607432
-type: way
+type: node
 latitude: 45.07374
 longitude: -67.05346
-postcode: "E5B 1A9"
+postcode: E5B 1A9
 city: St. Andrews
-street: "Water Street"
-housenumber: 189
-phone: "+1-506-529-3158"
+street: Water Street
+housenumber: "189"
+phone: +1-506-529-3158
 opening_hours: ""
-website: "https://www.homehardware.ca/en/store/32308"
+website: https://www.homehardware.ca/en/store/32308

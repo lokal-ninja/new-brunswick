@@ -1,11 +1,11 @@
 id: 102745850
-type: way
+type: node
 latitude: 45.92309
 longitude: -66.636
 postcode: ""
 city: Fredericton
-street: "Alison Boulevard"
-housenumber: 35
+street: Alison Boulevard
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

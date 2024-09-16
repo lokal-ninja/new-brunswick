@@ -1,11 +1,11 @@
 id: 765553524
-type: way
+type: node
 latitude: 45.91752
 longitude: -66.7129
 postcode: ""
 city: Hanwell
-street: "Fairway Drive"
-housenumber: 25
+street: Fairway Drive
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

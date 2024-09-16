@@ -1,11 +1,11 @@
 id: 671714265
-type: way
+type: node
 latitude: 45.95387
 longitude: -66.88707
 postcode: ""
 city: Bright
-street: "Mactacaddy Drive"
-housenumber: 100
+street: Mactacaddy Drive
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

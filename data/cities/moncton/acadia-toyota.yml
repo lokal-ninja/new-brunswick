@@ -1,11 +1,11 @@
 id: 123534822
-type: way
+type: node
 latitude: 46.07461
 longitude: -64.81534
-postcode: "E1E 1C8"
+postcode: E1E 1C8
 city: Moncton
-street: "Baig Boulevard"
-housenumber: 22
+street: Baig Boulevard
+housenumber: "22"
 phone: ""
 opening_hours: ""
-website: "https://www.toyota.ca/cgi-bin/WebObjects/WWW.woa/38/wo/Iyj20WzVTDAMcZaoa0jFgw/0.15"
+website: https://www.toyota.ca/cgi-bin/WebObjects/WWW.woa/38/wo/Iyj20WzVTDAMcZaoa0jFgw/0.15

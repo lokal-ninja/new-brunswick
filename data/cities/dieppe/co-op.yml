@@ -1,11 +1,11 @@
 id: 324988886
-type: way
+type: node
 latitude: 46.09672
 longitude: -64.70042
 postcode: ""
 city: Dieppe
-street: "boulevard Dieppe Boulevard"
-housenumber: 615
+street: boulevard Dieppe Boulevard
+housenumber: "615"
 phone: ""
 opening_hours: ""
 website: ""

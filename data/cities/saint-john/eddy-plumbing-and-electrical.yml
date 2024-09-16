@@ -1,11 +1,11 @@
 id: 159699043
-type: way
+type: node
 latitude: 45.26888
 longitude: -66.04946
 postcode: ""
 city: Saint John
-street: "Crown Street"
-housenumber: 555
+street: Crown Street
+housenumber: "555"
 phone: ""
 opening_hours: ""
 website: ""

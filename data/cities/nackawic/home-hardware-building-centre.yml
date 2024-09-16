@@ -1,11 +1,11 @@
 id: 846963739
-type: way
+type: node
 latitude: 46.00707
 longitude: -67.23395
 postcode: ""
 city: Nackawic
-street: "Route 605"
-housenumber: 31
+street: Route 605
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

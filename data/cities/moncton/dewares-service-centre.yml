@@ -1,11 +1,11 @@
 id: 674024204
-type: way
+type: node
 latitude: 46.11598
 longitude: -64.77323
-postcode: "E1A 1X9"
+postcode: E1A 1X9
 city: Moncton
-street: "Elmwood Drive"
-housenumber: 402
-phone: "+1 506 856 6128"
-opening_hours: "Mo-Fr 09:00-17:00"
+street: Elmwood Drive
+housenumber: "402"
+phone: +1 506 856 6128
+opening_hours: Mo-Fr 09:00-17:00
 website: ""

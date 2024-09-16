@@ -1,11 +1,11 @@
 id: 363613451
-type: way
+type: node
 latitude: 45.9613
 longitude: -66.64788
 postcode: ""
 city: Fredericton
-street: "Westmorland Street"
-housenumber: 199
+street: Westmorland Street
+housenumber: "199"
 phone: ""
 opening_hours: ""
 website: ""

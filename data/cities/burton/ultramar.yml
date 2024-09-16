@@ -1,11 +1,11 @@
 id: 548911663
-type: way
+type: node
 latitude: 45.87421
 longitude: -66.37728
-postcode: "E2V 3G7"
+postcode: E2V 3G7
 city: Burton
-street: "NB-102"
-housenumber: 378
-phone: "+1-506-357-6229"
+street: NB-102
+housenumber: "378"
+phone: +1-506-357-6229
 opening_hours: ""
 website: ""

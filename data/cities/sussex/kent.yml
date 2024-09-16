@@ -1,11 +1,11 @@
 id: 352909915
-type: way
+type: node
 latitude: 45.72022
 longitude: -65.53098
 postcode: ""
 city: Sussex
-street: "Lower Cove Road"
-housenumber: 66
+street: Lower Cove Road
+housenumber: "66"
 phone: ""
-opening_hours: "Mo-Sa 08:00-18:00"
+opening_hours: Mo-Sa 08:00-18:00
 website: ""

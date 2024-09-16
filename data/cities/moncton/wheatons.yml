@@ -1,11 +1,11 @@
 id: 270468314
-type: way
+type: node
 latitude: 46.12163
 longitude: -64.85009
-postcode: "E1G 1A9"
+postcode: E1G 1A9
 city: Moncton
-street: "Mountain Road"
-housenumber: 1866
+street: Mountain Road
+housenumber: "1866"
 phone: ""
 opening_hours: ""
 website: ""

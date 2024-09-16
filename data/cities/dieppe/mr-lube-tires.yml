@@ -1,11 +1,11 @@
 id: 1186542553
-type: way
+type: node
 latitude: 46.09433
 longitude: -64.75676
 postcode: ""
 city: Dieppe
-street: "Champlain Street"
-housenumber: 65
-phone: "+1 506 858 0711"
+street: Champlain Street
+housenumber: "65"
+phone: +1 506 858 0711
 opening_hours: ""
 website: ""
