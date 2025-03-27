@@ -1,6 +1,6 @@
 ---
 title: Fredericton
 url: /fredericton/
-latitude: 45.978
-longitude: -66.658
+latitude: 45.957
+longitude: -66.657
 ---
