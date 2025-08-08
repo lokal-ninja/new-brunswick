@@ -1,6 +1,6 @@
 ---
 title: Neguac
 url: /neguac/
-latitude: 47.247
-longitude: -65.078
+latitude: 47.272
+longitude: -65.053
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Esso"
-url: /dieppe/esso-champlain-street/
+url: /dieppe/esso-rue-principale/
 shop: convenience
 ---
