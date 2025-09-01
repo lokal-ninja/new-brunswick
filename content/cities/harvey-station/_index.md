@@ -1,6 +1,6 @@
 ---
 title: Harvey Station
 url: /harvey-station/
-latitude: 45.7
-longitude: -67.035
+latitude: 45.729
+longitude: -67.007
 ---
