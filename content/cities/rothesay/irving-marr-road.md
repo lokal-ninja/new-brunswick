@@ -1,5 +1,5 @@
 ---
 title: "Irving"
-url: /fredericton/irving-lincoln-road/
+url: /rothesay/irving-marr-road/
 shop: convenience
 ---
