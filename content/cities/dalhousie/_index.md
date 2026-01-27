@@ -2,5 +2,5 @@
 title: Dalhousie
 url: /dalhousie/
 latitude: 48.066
-longitude: -66.373
+longitude: -66.38
 ---
