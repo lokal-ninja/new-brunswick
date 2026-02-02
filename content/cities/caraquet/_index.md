@@ -1,6 +1,6 @@
 ---
 title: Caraquet
 url: /caraquet/
-latitude: 47.778
-longitude: -64.991
+latitude: 47.793
+longitude: -64.942
 ---
