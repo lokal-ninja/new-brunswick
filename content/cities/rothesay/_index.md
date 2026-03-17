@@ -1,6 +1,6 @@
 ---
 title: Rothesay
 url: /rothesay/
-latitude: 45.385
-longitude: -65.932
+latitude: 45.393
+longitude: -65.968
 ---
