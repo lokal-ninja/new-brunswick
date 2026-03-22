@@ -1,6 +1,6 @@
 ---
 title: Florenceville
 url: /florenceville/
-latitude: 46.442
-longitude: -67.619
+latitude: 46.441
+longitude: -67.649
 ---
