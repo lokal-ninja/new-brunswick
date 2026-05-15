@@ -1,6 +1,6 @@
 ---
 title: Edmundston
 url: /edmundston/
-latitude: 47.373
-longitude: -68.326
+latitude: 47.374
+longitude: -68.328
 ---
