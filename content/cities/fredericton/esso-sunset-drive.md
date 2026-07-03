@@ -1,5 +1,5 @@
 ---
 title: "Esso"
-url: /fredericton/esso-main-street/
+url: /fredericton/esso-sunset-drive/
 shop: convenience
 ---
