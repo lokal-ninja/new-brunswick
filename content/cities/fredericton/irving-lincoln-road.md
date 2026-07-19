@@ -1,5 +1,5 @@
 ---
 title: "Irving"
-url: /fredericton/irving-canada-street/
+url: /fredericton/irving-lincoln-road/
 shop: convenience
 ---
