@@ -1,6 +1,6 @@
 ---
 title: Gagetown
 url: /gagetown/
-latitude: 45.784
-longitude: -66.145
+latitude: 45.783
+longitude: -66.144
 ---
